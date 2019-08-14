@@ -10,11 +10,11 @@ Wat is 4G voor buitengebied? I KPN – Sneller Internet buitengebied I T-Mobile 
 
 1. **Echt geen ADSL, kabel of glasvezel?**
 
-Ja, duh, natuurlijk kwam je anders niet op deze pagina, maar check het toch even hier. (vergelijker)  Vul je postcode en huisnummer in en je weet direct wat alle providers bieden qua ADSL, kabel of glasvezel.
+    Ja, duh, natuurlijk kwam je anders niet op deze pagina, maar check het toch even hier. (vergelijker)  Vul je postcode en huisnummer in en je weet direct wat alle providers bieden qua ADSL, kabel of glasvezel.
 
 1. **Komt het er misschien aan?**
 
-Lokaal zijn er vaak allerlei initiatieven om toch koper of glasvezel te krijgen als buurt of buitengebied. Het ministerie van Economische Zaken heeft hiervoor het platform <a href="http://www.samensnelinternet.nl/" target="_blank" rel="nofollow">Samen Snel Internet</a> opgezet. Check anders je lokale nieuwsbron of je lokale Facebookgroep. Voor KPN glasvezel check [deze site](https://www.kpnnetwerk.nl/). Je kunt ook navragen bij gemeente of provincie, je bent echt niet de eerste.
+    Lokaal zijn er vaak allerlei initiatieven om toch koper of glasvezel te krijgen als buurt of buitengebied. Het ministerie van Economische Zaken heeft hiervoor het platform <a href="http://www.samensnelinternet.nl/" target="_blank" rel="nofollow">Samen Snel Internet</a> opgezet. Check anders je lokale nieuwsbron of je lokale Facebookgroep. Voor KPN glasvezel check <a href="https://4gbuitengebied.nl/kpnnetwerk/" target="_blank" rel="nofollow">deze site</a>. Je kunt ook navragen bij gemeente of provincie, je bent echt niet de eerste.
 
 # 4G voor buitengebied
 
@@ -40,8 +40,7 @@ KPN biedt &#39;Sneller Internet Buitengebied&#39; voor consumenten en ondernemer
 - Je moet dus al een **KPN internetabonnement** hebben of kunnen afsluiten; er moet een wijkkast zijn.
 - Snelheid is ook **afhankelijk** van het verkeer op de 4G mast. Smartphone gebruikers krijgen voorrang.
 
-[Check hier direct of KPN&#39;s &#39;Sneller Internet Buitengebied&#39; voor jouw beschikbaar is](https://4gbuitengebied.nl/kpn/)
-
+<a href="https://4gbuitengebied.nl/kpn/" target="_blank" rel="nofollow">Check hier direct of KPN&#39;s &#39;Sneller Internet Buitengebied&#39; voor jouw beschikbaar is</a>
 
 
 ### T-Mobile: 4G voor Thuis unlimited
@@ -76,7 +75,7 @@ Het verschil is dus alleen de router, heb je er zelf een dan kun je 4G voor Thui
 - Je **betaalt voor de 4G router**. Momenteel is dat de Huawei B618 4G Router. Betaling per maand, in één keer of een combinatie. Bij opzegging na één maand krijg je aanschafkosten terug als je de router terugstuurt.
 - Geen vast IP-adres.
 
-[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen**](https://4gbuitengebied.nl/tmobile/)
+<a href="https://4gbuitengebied.nl/tmobile/" target="_blank" rel="nofollow">**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen**</a>
 
 ### Vergelijking KPN en T-Mobile
 
@@ -94,6 +93,6 @@ We raden in deze veelvoorkomende omstandigheden het volgende aan:
 - **Geen ADSL internet in het buitengebied: T-Mobile.** Is er geen enkele DSL of glasvezel verbinding mogelijk? Dan is T-Mobile de enige optie.
 - **Traag ADSL internet in binnengebied: T-Mobile.** Wat KPN buitengebied noemt, is onduidelijk. Op allerlei fora wordt hierover geklaagd. Is je ADSL _buiten het buitengebied_ (binnengebied?) nog steeds traag? Overweeg een andere provider zoals Ziggo bijvoorbeeld, of T-Mobile.
 
-[**Bekijk KPN &#39;Sneller Internet Buitengebied&#39;**](https://4gbuitengebied.nl/kpn/)
+<a href="https://4gbuitengebied.nl/kpn/" target="_blank" rel="nofollow">**Bekijk KPN &#39;Sneller Internet Buitengebied&#39;**</a>
 
-[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39;**](https://4gbuitengebied.nl/tmobile/)
+<a href="https://4gbuitengebied.nl/tmobile/" target="_blank" rel="nofollow">**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39;**</a>
