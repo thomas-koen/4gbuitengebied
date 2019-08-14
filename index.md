@@ -1,5 +1,5 @@
 ---
-title: 4G voor thuis wanneer er geen ADSL is
+title: 4G Buitengebied
 ---
 
 # 4G buitengebied – 4G voor thuis wanneer er geen ADSL is
@@ -12,7 +12,7 @@ Wat is 4G voor buitengebied? I KPN – Sneller Internet buitengebied I T-Mobile 
 
 Ja, duh, natuurlijk kwam je anders niet op deze pagina, maar check het toch even hier. (vergelijker)  Vul je postcode en huisnummer in en je weet direct wat alle providers bieden qua ADSL, kabel of glasvezel.
 
-2. **Komt het er misschien aan?**
+1. **Komt het er misschien aan?**
 
 Lokaal zijn er vaak allerlei initiatieven om toch koper of glasvezel te krijgen als buurt of buitengebied. Het ministerie van Economische Zaken heeft hiervoor het platform [Samen Snel Internet](http://www.samensnelinternet.nl/) Opgezet. Check anders je lokale nieuwsbron of je lokale Facebookgroep. Voor KPN glasvezel check [deze site](https://www.kpnnetwerk.nl/). Je kunt ook navragen bij gemeente of provincie, je bent echt niet de eerste.
 
