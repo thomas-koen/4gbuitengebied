@@ -1,5 +1,5 @@
 ---
-title: 4G Buitengebied
+title: 4G voor thuis wanneer er geen ADSL is
 ---
 
 # 4G buitengebied – 4G voor thuis wanneer er geen ADSL is
