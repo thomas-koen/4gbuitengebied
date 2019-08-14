@@ -14,13 +14,13 @@ Ja, duh, natuurlijk kwam je anders niet op deze pagina, maar check het toch even
 
 1. **Komt het er misschien aan?**
 
-Lokaal zijn er vaak allerlei initiatieven om toch koper of glasvezel te krijgen als buurt of buitengebied. Het ministerie van Economische Zaken heeft hiervoor het platform [Samen Snel Internet](http://www.samensnelinternet.nl/) Opgezet. Check anders je lokale nieuwsbron of je lokale Facebookgroep. Voor KPN glasvezel check [deze site](https://www.kpnnetwerk.nl/). Je kunt ook navragen bij gemeente of provincie, je bent echt niet de eerste.
+Lokaal zijn er vaak allerlei initiatieven om toch koper of glasvezel te krijgen als buurt of buitengebied. Het ministerie van Economische Zaken heeft hiervoor het platform <a href="http://www.samensnelinternet.nl/" target="_blank" rel="nofollow">Samen Snel Internet</a> opgezet. Check anders je lokale nieuwsbron of je lokale Facebookgroep. Voor KPN glasvezel check [deze site](https://www.kpnnetwerk.nl/). Je kunt ook navragen bij gemeente of provincie, je bent echt niet de eerste.
 
 # 4G voor buitengebied
 
 De oplossing als er geen ADSL of glasvezel ligt óf als de afstand tot de wijkkast te groot is: 4G voorbuitengebied. Bekend van je smartphone, maar dan met een kastje (&quot;mifi router&quot;) in huis met een simkaartje. 4G loopt via 4G-zendmasten. De snelheid is afhankelijk van de capaciteit van het netwerk, het aantal gebruikers en de dekking.
 
-[Check hier alle GSM zendmasten in Nederland](http://www.gsmmasten.nl/)
+<a href="http://www.gsmmasten.nl/" target="_blank" rel="nofollow">Check hier alle GSM zendmasten in Nederland</a>
 
 Er zijn twee partijen die 4G voor thuisgebruik aanbieden: KPN met Sneller Internet Buitengebied en T-Mobile met 4G voor Thuis unlimited. We bekijken ze eerst apart en vergelijken ze daarna met elkaar.
 
