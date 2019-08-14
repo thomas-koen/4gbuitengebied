@@ -1,5 +1,5 @@
 ---
-title: 4G buitengebied – 4G voor thuis wanneer er geen ADSL is
+title: 4G voor thuis wanneer er geen ADSL is
 ---
 
 # 4G buitengebied – 4G voor thuis wanneer er geen ADSL is
@@ -40,7 +40,7 @@ KPN biedt &#39;Sneller Internet Buitengebied&#39; voor consumenten en ondernemer
 - Je moet dus al een **KPN internetabonnement** hebben of kunnen afsluiten; er moet een wijkkast zijn.
 - Snelheid is ook **afhankelijk** van het verkeer op de 4G mast. Smartphone gebruikers krijgen voorrang.
 
-Check [https://4gbuitengebied.nl/](hier direct) of KPN&#39;s &#39;Sneller Internet Buitengebied&#39; voor jouw beschikbaar is
+[Check hier direct of KPN&#39;s &#39;Sneller Internet Buitengebied&#39; voor jouw beschikbaar is](https://4gbuitengebied.nl/kpn/)
 
 
 
@@ -76,7 +76,7 @@ Het verschil is dus alleen de router, heb je er zelf een dan kun je 4G voor Thui
 - Je **betaalt voor de 4G router**. Momenteel is dat de Huawei B618 4G Router. Betaling per maand, in één keer of een combinatie. Bij opzegging na één maand krijg je aanschafkosten terug als je de router terugstuurt.
 - Geen vast IP-adres.
 
-**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen**
+[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen**](https://4gbuitengebied.nl/tmobile/)
 
 ### Vergelijking KPN en T-Mobile
 
@@ -94,6 +94,6 @@ We raden in deze veelvoorkomende omstandigheden het volgende aan:
 - **Geen ADSL internet in het buitengebied: T-Mobile.** Is er geen enkele DSL of glasvezel verbinding mogelijk? Dan is T-Mobile de enige optie.
 - **Traag ADSL internet in binnengebied: T-Mobile.** Wat KPN buitengebied noemt, is onduidelijk. Op allerlei fora wordt hierover geklaagd. Is je ADSL _buiten het buitengebied_ (binnengebied?) nog steeds traag? Overweeg een andere provider zoals Ziggo bijvoorbeeld, of T-Mobile.
 
-**Bekijk KPN &#39;Sneller Internet Buitengebied&#39;**
+[**Bekijk KPN &#39;Sneller Internet Buitengebied&#39;**](https://4gbuitengebied.nl/kpn/)
 
-**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39;**
+[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39;**](https://4gbuitengebied.nl/tmobile/)
