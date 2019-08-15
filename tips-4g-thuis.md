@@ -2,7 +2,7 @@
 title: Tips 4G thuis
 ---
 
-#Tips 4G thuis
+# Tips 4G thuis
 
 Heb je KPN’s of T-Mobile’s 4G voor thuis oplossing en wil je het maximale eruit halen? Met deze tips voor 4G thuis helpen we je graag op weg: 
 
