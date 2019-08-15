@@ -6,7 +6,8 @@ title: 4G voor thuis wanneer er geen ADSL is
 
 **Het leven buiten de Randstad is geweldig. Op de beschikbaarheid of snelheid van ADSL na dan, want voor je favoriete serie kijken of potje Fortnite heb je gewoon snel internet nodig. Gelukkig hebben KPN en T-Mobile oplossingen voor je en helpen we je hier door alle mogelijkheden heen.**
 
-<a href="#4g-voor-buitengebied">Wat is 4G voor buitengebied?</a> | <a href="#kpn-sneller-internet-buitengebied---review">KPN – Sneller Internet buitengebied</a> | <a href="#vergelijking-kpn-en-t-mobile">T-Mobile 4G voor thuis</a> | <a href="#vergelijking-kpn-en-t-mobile">vergelijking KPN en T-Mobile</a>
+<a href="#4g-voor-buitengebied">Wat is 4G voor buitengebied?</a> | <a href="#kpn-sneller-internet-buitengebied---review">KPN – Sneller Internet buitengebied</a> | <a href="#t-mobile-4g-voor-thuis-unlimited">T-Mobile 4G voor thuis</a> | <a href="#vergelijking-kpn-en-t-mobile">vergelijking KPN en T-Mobile</a>
+
 
 1. **Echt geen ADSL, kabel of glasvezel?**
 
