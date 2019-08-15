@@ -1,6 +1,9 @@
 ---
 title: Links
 ---
+
+#Links
+
 Hier vind je alle genoemde bronnen:
 
 <a href="http://www.samensnelinternet.nl/" target="_blank" rel="nofollow">Samen Snel Internet</a>

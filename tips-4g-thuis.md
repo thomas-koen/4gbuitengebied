@@ -2,6 +2,8 @@
 title: Tips 4G thuis
 ---
 
+#Tips 4G thuis
+
 Heb je KPN’s of T-Mobile’s 4G voor thuis oplossing en wil je het maximale eruit halen? Met deze tips voor 4G thuis helpen we je graag op weg: 
 
 1.	Check je snelheid. Deze speedtest wordt veel door monteurs gebruikt: Speedtest.nl. Ook beschikbaar als app. Zo bepaal je waar het precies aan ligt: aan de afstand tussen je apparaat en de router (trage WiFi), of aan de plaatsing van de router (trage 4G)? Voor traag WiFi zijn er allerlei oplossingen, zoals internet via het stopcontact met een setje stroomnetadapters, een WiFi-repeater die je WiFi bereik verlengt of losse access points. Het kan ook nog aan je apparaat liggen: een oudere pc of laptop heeft een tragere internetverbinding. 
