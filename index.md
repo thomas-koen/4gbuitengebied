@@ -17,7 +17,7 @@ title: 4G voor thuis wanneer er geen ADSL is
 
 # 4G voor buitengebied
 
-De oplossing als er geen ADSL of glasvezel ligt óf als de afstand tot de wijkkast te groot is: 4G voorbuitengebied. Bekend van je smartphone, maar dan met een kastje (&quot;mifi router&quot;) in huis met een simkaartje. 4G loopt via 4G-zendmasten. De snelheid is afhankelijk van de capaciteit van het netwerk, het aantal gebruikers en de dekking.
+De oplossing als er geen ADSL of glasvezel ligt óf als de afstand tot de wijkkast te groot is: 4G voor buitengebied. Bekend van je smartphone, maar dan met een kastje (&quot;mifi router&quot;) in huis met een simkaartje. 4G loopt via 4G-zendmasten. De snelheid is afhankelijk van de capaciteit van het netwerk, het aantal gebruikers en de dekking.
 
 <a href="http://www.gsmmasten.nl/" target="_blank" rel="nofollow">Check hier alle GSM zendmasten in Nederland</a>
 
