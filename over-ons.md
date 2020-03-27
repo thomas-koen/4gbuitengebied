@@ -22,3 +22,4 @@ Er staan er nog twee op stapel in 2019: witgoed.nu voor huishoudelijke apparaten
 **Over Koen.** Met zijn bedrijf [TyCoon Media](https://tycoonmedia.net/) biedt Koen een_dé_ Post to Google my Business plugin in aan voor WordPress. Gratis meer bereik via Google mijn Bedrijf, wie wil dat niet? Daarnaast bouwt hij sites en automatiseert hij handig processen. Hij fixt ook flipperkasten en werkt momenteel vanuit Schagen.
 
 **Over Thomas.** Die runt [Bloeise.nl](https://bloeise.nl/), een B2B marketing blog, naast het ondersteunen van kekke bedrijven zoals Emerce, Dept, Osudio en QS solutions met content over technologie, organisatie en marketing. En! Hij is al geruime tijd bezig met een heus marketingboek.
+

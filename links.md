@@ -15,3 +15,5 @@ Hier vind je alle genoemde bronnen:
 <a href="https://www.kpnnetwerk.nl/" target="_blank" rel="nofollow">KPN Glasvezel check</a>
 
 Hier vind je onze linkpartners:
+
+<a href="https://www.heinosoft.nl/blog/zoekmachine-optimalisatie" target="_blank" rel="nofollow">seo zoekmachine optimalisatie</a>
