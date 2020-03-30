@@ -16,4 +16,4 @@ Hier vind je alle genoemde bronnen:
 
 Hier vind je onze linkpartners:
 
-<a href="https://www.heinosoft.nl/blog/zoekmachine-optimalisatie" target="_blank" rel="nofollow">seo zoekmachine optimalisatie</a>
+<a href="https://www.heinosoft.nl/blog/zoekmachine-optimalisatie" target="_blank">seo zoekmachine optimalisatie</a>
