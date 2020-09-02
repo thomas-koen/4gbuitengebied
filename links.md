@@ -17,3 +17,21 @@ Hier vind je alle genoemde bronnen:
 Hier vind je onze linkpartners:
 
 <a href="https://www.heinosoft.nl/blog/zoekmachine-optimalisatie" target="_blank">seo zoekmachine optimalisatie</a>
+
+<a href="https://www.gunneman-geo.nl/maptionnaire/" target="_blank">maptionnaire</a>
+
+<a href="https://www.vanderzwaard.nl/vacature-junior-assistent-accountant/" target="_blank">vacature assistent accountant </a>
+
+<a href="https://dlsa.nl/vacature-letselschade/" target="_blank">Vacature letselschade</a>
+
+<a href="https://inyourfacemedia.nl/wat-kost-een-website" target="_blank">Wat kost een website</a>
+
+<a href="https://whiskyfriday.nl/diensten/online-marketing-den-haag/" target="_blank">Internet Marketing Den Haag</a>
+
+<a href="https://www.repenroer.nl/" target="_blank">musical groep 8</a>
+
+<a href="https://juwelia.nl/" target="_blank">juwelia.nl</a>
+
+<a href="https://binnendienst.nu/telefoonservice/" target="_blank">Telefoonservice</a>
+
+<a href="https://iyfm.nl/affiliate-website-laten-maken" target="_blank">Affiliate website laten maken</a>
