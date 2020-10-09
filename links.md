@@ -4,7 +4,7 @@ title: Links
 
 # Links
 
-Hier vind je alle genoemde bronnen:
+**Hier vind je alle genoemde bronnen:**
 
 <a href="http://www.samensnelinternet.nl/" target="_blank" rel="nofollow">Samen Snel Internet</a>
 
@@ -14,7 +14,7 @@ Hier vind je alle genoemde bronnen:
 
 <a href="https://www.kpnnetwerk.nl/" target="_blank" rel="nofollow">KPN Glasvezel check</a>
 
-Hier vind je onze linkpartners:
+**Hier vind je onze linkpartners:**
 
 <a href="https://www.heinosoft.nl/blog/zoekmachine-optimalisatie" target="_blank">seo zoekmachine optimalisatie</a>
 
@@ -35,3 +35,11 @@ Hier vind je onze linkpartners:
 <a href="https://binnendienst.nu/telefoonservice/" target="_blank">Telefoonservice</a>
 
 <a href="https://iyfm.nl/affiliate-website-laten-maken" target="_blank">Affiliate website laten maken</a>
+
+<a href="https://beautifulcode.nl/" target="_blank">Beautifulcode</a>
+
+<a href="https://net4all.be" target="_blank">Net4All</a>
+
+<a href="http://michelswebsite.nl" target="_blank">Michelswebsite</a>
+
+<a href="http://pokerbancontact.be" target="_blank">Pokerbancontact</a>
