@@ -43,3 +43,5 @@ title: Links
 <a href="http://michelswebsite.nl" target="_blank">Michelswebsite</a>
 
 <a href="http://pokerbancontact.be" target="_blank">Pokerbancontact</a>
+
+<a href="https://www.gratistabletonline.nl/wat-is-glasvezel" target="_blank">Wat is glasvezel</a>
