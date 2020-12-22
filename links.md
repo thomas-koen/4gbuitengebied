@@ -45,3 +45,7 @@ title: Links
 <a href="http://pokerbancontact.be" target="_blank">Pokerbancontact</a>
 
 <a href="https://www.gratistabletonline.nl/wat-is-glasvezel" target="_blank">Wat is glasvezel</a>
+
+<a href="https://divitel.com/operators-service-providers/mesh-wifi-solution-for-service-providers/" target="_blank">Wifi solution for service providers</a>
+
+<a href="https://zakelijk-glasvezel.nl/" target="_blank"> Zakelijk glasvezel internet</a>
