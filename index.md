@@ -16,7 +16,7 @@ title: 4G voor thuis wanneer er geen ADSL is
 
 1. **Echt geen ADSL, kabel of glasvezel?**
 
-    Ja, duh, natuurlijk kwam je anders niet op deze pagina, maar check het toch even hier. (vergelijker)  Vul je postcode en huisnummer in en je weet direct wat alle providers bieden qua ADSL, kabel of glasvezel.
+    Ja, duh, natuurlijk kwam je anders niet op deze pagina, maar check het toch even <a href="/vergelijker">hier</a>.  Vul je postcode en huisnummer in en je weet direct wat alle providers bieden qua ADSL, kabel of glasvezel.
 
 1. **Komt het er misschien aan?**
 
