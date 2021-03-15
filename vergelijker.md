@@ -1,5 +1,7 @@
 ---
 title: ADSL – Glasvezel vergelijker
+show_sidebar: false
+menubar: false
 ---
 
 # ADSL – Glasvezel vergelijker

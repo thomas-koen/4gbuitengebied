@@ -1,2 +1,18 @@
-theme: jekyll-theme-cayman
+theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 title: 4G Buitengebied
+
+theme_color: '#159957'
+
+fixed_navbar: top
+footer_menu: footer-menu
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      hero_image: /assets/images/koeien.jpg
+      show_sidebar: false
+      menubar: menu-zijbalk

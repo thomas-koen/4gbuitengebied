@@ -1,0 +1,21 @@
+- label: 4G Buitengebied
+  items:
+    - name: KPN 4G buitengebied
+      link:  /kpn-4g-buitengebied
+    - name: T-Mobile 4G voor thuis
+      link: /t-mobile-4g-voor-thuis
+    - name: Evenwifi
+      link: /evenwifi-tijdelijk-onbeperkt-4g-internet
+- label: Tijdelijk internet
+  items:
+    - name: Evenwifi
+      link: /evenwifi-tijdelijk-onbeperkt-4g-internet
+#      items:
+#        - name: Sublink
+#          link: /sublink/
+#        - name: Sublink 2
+#          link: /sublink2/
+#- label: Third Menu Label
+#  items:
+#    - name: Another example item
+#      link: /another-example-item/
