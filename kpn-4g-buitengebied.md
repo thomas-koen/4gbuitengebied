@@ -1,6 +1,8 @@
 # KPN: Sneller Internet Buitengebied - review
+<img style="width:100px; float:right; padding-left:25px;" src="/assets/images/logo-KPN.png" alt="KPN Logo">
+**KPN biedt &#39;Sneller Internet Buitengebied&#39; voor consumenten en ondernemers in een gebied waar de komende zes maanden niet meer dan 30 Mbit/sec downloadsnelheid kan worden bereikt via KPN. Er moet ook genoeg 4G capaciteit en 4G binnenshuisdekking zijn voor het adres. Dit is een _aanvulling_ op een bestaande KPN-internetverbinding. Dat zijn dus een boel voorwaarden, maar KPN zegt dat dit voor zo&#39;n 440.000 adressen interessant kan zijn.**
 
-**KPN biedt &#39;Sneller Internet Buitengebied&#39; voor consumenten en ondernemers in een gebied waar de komende zes maanden niet meer dan 30 Mbit/sec downloadsnelheid kan worden bereikt via KPN. Er moet ook genoeg 4G capaciteit en 4G binnenshuisdekking zijn voor het adres. Dit is een **_aanvulling_** op een bestaande KPN-internetverbinding. Dat zijn dus een boel voorwaarden, maar KPN zegt dat dit voor zo&#39;n 440.000 adressen interessant kan zijn.**
+[**Check hier direct of KPN&#39;s &#39;Sneller Internet Buitengebied&#39; voor jou beschikbaar is »**](/kpn/)
 
 Voor de volledigheid: Vroegah, vóór 19 januari 2020, was er een heus internet voor het buitengebied met enkel een 4G-modem (Huawei!) zonder koppeling met ADSL. Die is gestopt. Er is alleen een koppeling mogelijk tussen DSL en 4G (de Experiabox v10-modem voor DSL en een Sagemcom 4360 4G-modem)
 

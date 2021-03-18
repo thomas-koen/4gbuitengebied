@@ -10,7 +10,7 @@
 - **Je hebt al ADSL van KPN maar het is traag**. Sneller Internet Buitengebied van KPN is in dat geval GRATIS. Je krijgt dan **tot 50 Mbit/sec** bovenop je huidige snelheid én een gratis extra 4G-modem in bruikleen.
 
 **[Bekijk KPN &#39;Sneller Internet Buitengebied&#39; »](/kpn/)**
-
+<br /><br />
 
 <img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">
 
@@ -21,7 +21,7 @@
 - **OF: je hebt KPN ADSL máár komt niet in aanmerking voor Sneller Internet Buitengebied**. Ja, dat is stom, en je bent niet de enige: Op allerlei fora wordt hierover geklaagd. Dan is T-Mobile de GOEDKOPERE mogelijkheid.
 
 **[Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; »](/tmobile/)**
-
+<br /><br />
 
 <img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">
 
@@ -34,7 +34,7 @@
 - OF: je wilt tijdelijk internet op locatie, bijvoorbeeld voor je evenement of beurs. EvenWifi biedt tijdelijke 4G-oplossingen tot 50 gebruikers, 100 gebruikers en 150 gebruikers.
 
 **[Bekijk EvenWifi &#39;Tijdelijk Onbeperkt&#39; en &#39;4G/5G abonnementen&#39; »](/evenwifi/)**
-
+<br /><br />
 
 <img style="width:100px; float:left; padding-right:25px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo">
 

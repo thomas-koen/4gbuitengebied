@@ -33,6 +33,8 @@ Je kunt bij Internet Creators kiezen! De verschillen:
 
 Alle simkaarten zijn 5G ready _voor Nederland_. De router is tegen meerprijs up te graden naar de Huawei 5G CPE Pro 2 (H122-373 of H122-370). Deze Chinese bad boys beschikken over de hoogste klasse 4G en 5G frequentie en WiFi 6.
 
+![Alt](/assets/images/vrouw-op-whiteboard.jpg "Internet Creators Snel internet buitengebied")
+
 ## Voordelen Internet Creators
 
 - Mensen die wéten hoe het zit en gaan voor die 100% klanttevredenheid. Ze &#39;createn&#39; jouw **best mogelijke internet** waar je ook zit in het buitengebied.
@@ -49,6 +51,9 @@ Niet tevreden met je sneller internet buitengebied van Internet Creators? Dan ku
 - **Prijs!** Met maandelijks opzegbaar kost € 95 p/m, 12 maanden kost € 89 p/m en 24 maanden kost € 79 p/m alles behalve de goedkoopste.
 - **Kuch.** € 99 eenmalige kosten én € 49 aansluitkosten.
 
-> ## &#39;Internet is juist in het buitengebied zo belangrijk&#39;
-> &quot;Wij gaan voor kwaliteit en tevreden klanten, niet voor de aantallen&quot;, zegt Bas Frantz, oprichter van Internet Creators. &quot;Elke aanmelding bellen we eerst: wat heb je precies nodig? Wat wil je doen? Heb je misschien gamende kinderen die zomaar een Call of Duty a 200GB willen binnenhalen? Hmm, dan is T-Mobile bijvoorbeeld minder geschikt. We kijken naar alle mogelijkheden voor de locatie zodat je exact weet welke snelheid haalbaar is. En we kunnen je ook maatwerk bieden, zoals meerdere WiFi punten of het aanleggen van een netwerk ter plaatse&quot;, schetst Bas. &quot;Is de dekking ondanks onze zorgen toch niet goed? Dan kun je het contract gewoon opzeggen zonder gedoe.&quot;
+**[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/)**
 
+> ## &#39;Internet is juist in het buitengebied zo belangrijk&#39;
+> <img style="float: left; width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet Creators logo">&quot;Wij gaan voor kwaliteit en tevreden klanten, niet voor de aantallen&quot;, zegt Bas Frantz, oprichter van Internet Creators. &quot;Elke aanmelding bellen we eerst: wat heb je precies nodig? Wat wil je doen? Heb je misschien gamende kinderen die zomaar een Call of Duty a 200GB willen binnenhalen? Hmm, dan is T-Mobile bijvoorbeeld minder geschikt. We kijken naar alle mogelijkheden voor de locatie zodat je exact weet welke snelheid haalbaar is. En we kunnen je ook maatwerk bieden, zoals meerdere WiFi punten of het aanleggen van een netwerk ter plaatse&quot;, schetst Bas. &quot;Is de dekking ondanks onze zorgen toch niet goed? Dan kun je het contract gewoon opzeggen zonder gedoe.&quot;
+
+_Afbeelding door [WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/25167708354/), uitgegeven onder de [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/) licentie_

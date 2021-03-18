@@ -6,6 +6,8 @@
       link: /t-mobile-4g-voor-thuis
     - name: Evenwifi
       link: /evenwifi-tijdelijk-onbeperkt-4g-internet
+    - name: Internet Creators
+      link: /internet-creators-snel-internet-buitengebied
 - name: Tijdelijk internet
   dropdown:
     - name: Evenwifi

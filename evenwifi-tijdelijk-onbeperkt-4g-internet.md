@@ -1,6 +1,6 @@
 
 # EvenWifi: Onbeperkt 4G - review
-
+<img style="width:100px; float:right;  padding-left:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">
 **Ze heten officieel &#39;evenwifi&#39; (kleine letters, maar wij vinden EvenWifi mooier staan), zijn onderdeel van Keepgo Europe, en lanceerde in 2020 de derde oplossing voor internet in het buitengebied via 4G. Vergelijkbaar met 4G voor thuis van T-Mobile, maar dan zonder de snelheidslimiet van 25Mbps en zonder de FUP van T-Mobile. Ook als je duizend GB in de maand download is dat geen probleem (JA, dat hebben we zwart op wit!)**
 
 ## Onbeperkt 4G abonnementen van EvenWifi
@@ -19,6 +19,8 @@ Er zijn geen harde limieten en je snelheid wordt niet verlaagd bij veel verbruik
 ### Upgrade je snelheid &amp; 5G met je router
 
 Hogere snelheid downloaden en uploaden? 5G? Van 32 naar 64 gebruikers? Dat is afhankelijk van de router. En die kies je zelf bij je abonnement. Standaard (CAT4) downloadsnelheid is 50Mbps down en 10 Mbps up voor 32 gebruikers. De beste router (5G CAT19) geeft je 200 Mbps down en 75 Mbps up voor 64 gebruikers.
+
+![Alt](/assets/images/wifi-in-hand.jpg "EvenWifi Onbeperkt 4G")
 
 ## Tijdelijk onbeperkt 4G
 
