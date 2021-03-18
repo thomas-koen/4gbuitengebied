@@ -3,7 +3,7 @@
 
 **T-Mobile biedt 4G voor Thuis abonnementen (met unlimited 4G internet) voor locaties zonder vaste internetverbinding óf waar het internet niet snel genoeg is. T-Mobile belooft &#39;unlimited bereik&#39; via haar mobiele 4G netwerk, unlimited datagebruik (maar met een FUP van 500 GB), up- en downloadsnelheiden van maximaal 100 Mbit/sec en internet voor maximaal 32 apparaten. Voorwaarde is een goede dekking op het mobiele netwerk.**
 
-[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen »**](/tmobile/)
+[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen »**](/tmobile/){:target="_blank"}
 
 ## 4G voor Thuis abonnementen van T-Mobile
 
@@ -56,4 +56,4 @@ T-Mobile heeft drie abonnementen. Voor alle abonnementen geldt:
 - Je **betaalt voor de 4G router**. Momenteel is dat de Huawei B618 4G Router. Betaling per maand, in één keer of een combinatie. Bij opzegging na één maand krijg je aanschafkosten terug als je de router terugstuurt.
 - **Geen vast IP-adres.**
 
-[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen »**](/tmobile/)
+[**Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; abonnementen »**](/tmobile/){:target="_blank"}

@@ -9,7 +9,7 @@
 
 - **Je hebt al ADSL van KPN maar het is traag**. Sneller Internet Buitengebied van KPN is in dat geval GRATIS. Je krijgt dan **tot 50 Mbit/sec** bovenop je huidige snelheid én een gratis extra 4G-modem in bruikleen.
 
-**[Bekijk KPN &#39;Sneller Internet Buitengebied&#39; »](/kpn/)**
+**[Bekijk KPN &#39;Sneller Internet Buitengebied&#39; »](/kpn/){:target="_blank"}**
 <br /><br />
 
 <img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">
@@ -20,7 +20,7 @@
 - **Er is geen enkele ADSL of glasvezelverbinding mogelijk en je gaat voor PRIJS**. T-Mobile biedt hiervoor zijn 4G voor Thuis abonnement.
 - **OF: je hebt KPN ADSL máár komt niet in aanmerking voor Sneller Internet Buitengebied**. Ja, dat is stom, en je bent niet de enige: Op allerlei fora wordt hierover geklaagd. Dan is T-Mobile de GOEDKOPERE mogelijkheid.
 
-**[Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; »](/tmobile/)**
+**[Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; »](/tmobile/){:target="_blank"}**
 <br /><br />
 
 <img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">
@@ -33,7 +33,7 @@
 - Je hebt KPN ADSL maar komt niet in aanmerking voor Sneller Internet Buitengebied. Dan is EvenWifi de SNELLERE mogelijkheid zonder downloadlimieten of FUP, maar wel duurder.
 - OF: je wilt tijdelijk internet op locatie, bijvoorbeeld voor je evenement of beurs. EvenWifi biedt tijdelijke 4G-oplossingen tot 50 gebruikers, 100 gebruikers en 150 gebruikers.
 
-**[Bekijk EvenWifi &#39;Tijdelijk Onbeperkt&#39; en &#39;4G/5G abonnementen&#39; »](/evenwifi/)**
+**[Bekijk EvenWifi &#39;Tijdelijk Onbeperkt&#39; en &#39;4G/5G abonnementen&#39; »](/evenwifi/){:target="_blank"}**
 <br /><br />
 
 <img style="width:100px; float:left; padding-right:25px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo">
@@ -46,4 +46,4 @@
 - Je wilt dat iemand naar jouw wensen luistert, je adviseert op de mogelijkheden en ook extra maatwerk kan bieden.
 - Je qua verbruik op een gemiddeld gezin zit (250 GB per maand).
 
-**[Bekijk Internet Creators &#39;Snel internet in het Buitengebied&#39;](/internetcreators/)**
+**[Bekijk Internet Creators &#39;Snel internet in het Buitengebied&#39;](/internetcreators/){:target="_blank"}**

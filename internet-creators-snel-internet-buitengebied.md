@@ -11,7 +11,7 @@
 | Plug & play | Plug & play | Plug & play+ |
 
 
-**[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/)**
+**[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/){:target="_blank"}**
 
 **Bij elk abonnement geldt:**
 
@@ -51,9 +51,9 @@ Niet tevreden met je sneller internet buitengebied van Internet Creators? Dan ku
 - **Prijs!** Met maandelijks opzegbaar kost € 95 p/m, 12 maanden kost € 89 p/m en 24 maanden kost € 79 p/m alles behalve de goedkoopste.
 - **Kuch.** € 99 eenmalige kosten én € 49 aansluitkosten.
 
-**[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/)**
+**[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/){:target="_blank"}**
 
 > ## &#39;Internet is juist in het buitengebied zo belangrijk&#39;
 > <img style="float: left; width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet Creators logo">&quot;Wij gaan voor kwaliteit en tevreden klanten, niet voor de aantallen&quot;, zegt Bas Frantz, oprichter van Internet Creators. &quot;Elke aanmelding bellen we eerst: wat heb je precies nodig? Wat wil je doen? Heb je misschien gamende kinderen die zomaar een Call of Duty a 200GB willen binnenhalen? Hmm, dan is T-Mobile bijvoorbeeld minder geschikt. We kijken naar alle mogelijkheden voor de locatie zodat je exact weet welke snelheid haalbaar is. En we kunnen je ook maatwerk bieden, zoals meerdere WiFi punten of het aanleggen van een netwerk ter plaatse&quot;, schetst Bas. &quot;Is de dekking ondanks onze zorgen toch niet goed? Dan kun je het contract gewoon opzeggen zonder gedoe.&quot;
 
-_Afbeelding door [WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/25167708354/), uitgegeven onder de [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/) licentie_
+_Afbeelding door [WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/25167708354/){:target="_blank"}, uitgegeven onder de [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/){:target="_blank"} licentie_

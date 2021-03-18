@@ -10,7 +10,7 @@
 | **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
 | + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk direct alle abonnementen op EvenWifi &raquo;**](/evenwifi/)
+[**Bekijk direct alle abonnementen op EvenWifi &raquo;**](/evenwifi/){:target="_blank"}
 
 ### Hoe onbeperkt is 4G onbeperkt van EvenWifi?
 
@@ -31,9 +31,9 @@ Wanneer je tijdelijk even onbeperkt 4G per dag nodig hebt. Zo werkt het:
 - Altijd: borgsom a € 150.
 - Plug &amp; play – modem is al ingesteld en heeft alleen stroom nodig.
 
-Check [hier tijdelijk onbeperkt van EvenWifi](https://evenwifi.nl/tijdelijk-onbeperkt/)
+Check [hier tijdelijk onbeperkt van EvenWifi](https://portal.keepgo.eu/ex/rent/onbeperkt4g/){:target="_blank"}
 
-Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://evenwifi.nl/evenementen/). 
+Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://portal.keepgo.eu/ex/rent/onbeperkt4g/){:target="_blank"}. 
 
 ### VOORDELEN EVENWIFI tijdelijk onbeperkt 4G en 4G/5G abonnementen
 
@@ -59,9 +59,9 @@ Ze bieden ook nog es een niet **goed=geld terug garantie**.
 
 Met 32 tot 64 gebruikers, onbeperkt 4G gebruik en zakelijke beschikbaarheid is EvenWifi een ideale commerciële oplossing voor gasten op de boot, de camping of in vakantiehuisjes. Of voor de hardcore gamers / HD videostreamers in het buitengebied die smakelijk moeten lachen om een FUPje van slechts 100 GB.
 
-[**Kijk hier voor meer EvenWifi informatie en aanmelden »**](https://4gbuitengebied.nl/evenwifi/)
+[**Kijk hier voor meer EvenWifi informatie en aanmelden »**](https://4gbuitengebied.nl/evenwifi/){:target="_blank"}
 
-[Bekijk de reviews op Kiyoh](https://www.kiyoh.com/reviews/1042083/even_wi-fi?from=widget&amp;lang=nl)
+[Bekijk de reviews op Kiyoh](https://www.kiyoh.com/reviews/1042083/even_wi-fi?from=widget&amp;lang=nl){:target="_blank"}
 
 ## 100% tevredenheid gegarandeerd door EvenWifi
 Let op! Naast een wettelijk herroepingsrecht (Wet Kopen op Afstand) hanteert EvenWifi daar bovenop een &#39;niet goed geld terug garantie&#39;. Je bent dus zeker van een goed product dat volledig naar jouw wensen functioneert: onbeperkt 4G, 50 tot 200 Mbps, voor 32 of 64 gebruikers. Wij van 4Gbuitengebied.nl zijn alleen de tussenpartij die alle aanbieders van 4G voor thuis en buitengebied helder voor je in kaart brengen.

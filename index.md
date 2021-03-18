@@ -11,10 +11,10 @@ _Bekijk direct de vier oplossingen, onze_ _[buitengebied internet vergelijking](
 
 |Aanbieder|Oplossing|
 |---|---|
-|<img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo"><br />_KPN Netwerk_|[**"Sneller Internet Buitengebied"**](/kpn/) <br />Je hebt ADSL van KPN maar die is traag? Dan schakelt 4G bij in dit gratis abonnement voor KPN-klanten.|
-|<img style="width:100px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo"><br />_T-Mobile-netwerk_|[**"4G voor thuis"**](/tmobile/) <br />De goedkoopste zonder KPN-ADSL. Snel internet waar je ook woont met 4G voor thuis. Sim only, met Huawei B818 4G binnenrouter of met versterkt 4G voor Extra Snel.|
-|<img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo"><br />_T-Mobile-netwerk_|[**"Tijdelijk 4G internet&quot; EN &quot;4G/5G abonnement"**](/evenwifi/) <br />Onbeperkt? Hier kun je het meeste verbruiken: tot wel 1000 GB per maand. Standaard tot 32 gebruikers, maar ook 50, 100 en 150 is mogelijk bij tijdelijk 4G internet.|
-|<img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo"><br />_KPN-netwerk_|[**"Snel Internet Buitengebied"**](/internetcreators/) <br />Snel internet in het buitengebied zonder gedoe. Echt advies &amp; maatwerk. Met de garantie dat het gewoon perfect werkt. Bij KPN of T-Mobile, aanbod op maat.|
+|<img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo"><br />_KPN Netwerk_|[**"Sneller Internet Buitengebied"**](/kpn-4g-buitengebied) <br />Je hebt ADSL van KPN maar die is traag? Dan schakelt 4G bij in dit gratis abonnement voor KPN-klanten.|
+|<img style="width:100px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo"><br />_T-Mobile-netwerk_|[**"4G voor thuis"**](/t-mobile-4g-voor-thuis) <br />De goedkoopste zonder KPN-ADSL. Snel internet waar je ook woont met 4G voor thuis. Sim only, met Huawei B818 4G binnenrouter of met versterkt 4G voor Extra Snel.|
+|<img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo"><br />_T-Mobile-netwerk_|[**"Tijdelijk 4G internet&quot; EN &quot;4G/5G abonnement"**](/evenwifi-tijdelijk-onbeperkt-4g-internet) <br />Onbeperkt? Hier kun je het meeste verbruiken: tot wel 1000 GB per maand. Standaard tot 32 gebruikers, maar ook 50, 100 en 150 is mogelijk bij tijdelijk 4G internet.|
+|<img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo"><br />_KPN-netwerk_|[**"Snel Internet Buitengebied"**](/internet-creators-snel-internet-buitengebied) <br />Snel internet in het buitengebied zonder gedoe. Echt advies &amp; maatwerk. Met de garantie dat het gewoon perfect werkt. Bij KPN of T-Mobile, aanbod op maat.|
 
 Kun je nog niet direct kiezen tussen deze 4? Check onze [Buitengebied Internet Vergelijker](/vergelijking).
 
@@ -41,7 +41,7 @@ Kun je nog niet direct kiezen tussen deze 4? Check onze [Buitengebied Internet V
 - **Tijdelijk 4G?** Handig voor evenementen, dus er zijn ook tijdelijke 4G abonnementen. Let goed op het aantal gebruikers.
 - 4G loopt via **4G-zendmasten**. De 4G-snelheid is afhankelijk van de capaciteit van het netwerk, het aantal gebruikers, de dekking en ook de plaatsingsrichting van de 4G-zendmast.
 
-[Check hier alle GSM zendmasten in Nederland](http://www.gsmmasten.nl/)
+[Check hier alle GSM zendmasten in Nederland](http://www.gsmmasten.nl/){:target="_blank"}
 
 # 4G buitengebied aanbieders
 
@@ -49,10 +49,10 @@ Er zijn vier partijen die 4G voor buitengebied aanbieden: KPN met Sneller Intern
 
 |Aanbieder|Oplossing|
 |---|---|
-|<img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo">|Bekijk [**"Sneller Internet Buitengebied"**](/kpn/)|
-|<img style="width:100px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">|Bekijk [**"4G voor thuis"**](/tmobile/)|
-|<img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">|Bekijk [**"Tijdelijk 4G internet"**](/evenwifi/)|
-|<img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo">|Bekijk [**"Snel Internet Buitengebied"**](/internetcreators/)|
+|<img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo">|Bekijk [**"Sneller Internet Buitengebied"**](/kpn/){:target="_blank"}|
+|<img style="width:100px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">|Bekijk [**"4G voor thuis"**](/tmobile/){:target="_blank"}|
+|<img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">|Bekijk [**"Tijdelijk 4G internet"**](/evenwifi/){:target="_blank"}|
+|<img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo">|Bekijk [**"Snel Internet Buitengebied"**](/internetcreators/){:target="_blank"}|
 
 
 # Veelgestelde vragen over 4G
@@ -71,7 +71,7 @@ Alle oplossingen worden privé aangeboden, dus voor consumenten, en kun je ook a
 
 Leuke vraag, lastig antwoord. Hangt van veel zaken af: je abonnement, je router, je devices, de plaatsing van de dichtstbijzijnste mast, je netwerk (T-Mobile of KPN), bezetting (je buren!) en eventuele WiFi interfentie. Alle kaarten ten spijt: het is altijd een inschatting. Lekker dan, inderdaad. Nu hanteren providers een minimale snelheidsgarantie en nieuwe providers zoals EvenWifi en InternetCreators ook nog een tevredenheidsgarantie. Alleen InternetCreators biedt je advies en maatwerk aan, zoals bijvoorbeeld langskomen en extra WiFi punten of zelfs een heel netwerk aanbrengen (tegen meerprijs uiteraard).
 
-Hoeveel gebruikers? Wat heb ik nodig?
+## Hoeveel gebruikers? Wat heb ik nodig?
 Deze 4G voor thuis en buitengebied oplossingen zetten 4G dus om naar WiFi. Het is dus enigszins te vergelijken met ADSL. Tel je devices, niet de mensen in je huishouding. Vanwege de kekke trend &#39;second screen&#39; zit nu ook oma verwoed te twitteren naar Thierry op de mobiel terwijl ze ~~Rick &amp; Morty~~ Final Space via Netflix op de tablet streamt. Kijk naar je interesses: social media, dingen op zoeken voor school en werk en zoomen? Das echt niet zoveel GB&#39;s. Let op HD streamen (heb je een HD tv-toestel?), HD-gamen (heb je een zoon die altijd op zijn kamer zit te knallen?) en IT-dingen (heb je misschien een server draaien voor een site of mail? Hoe zijn je backup-instellingen?).
 
 ## Wanneer komt jullie monteur dan om…. Kunnen jullie ook…
@@ -84,8 +84,8 @@ Ho stop! Je zit op 4Gbuitengebied.nl, en wij informeren jou (zo volledig mogelij
 
 Je hebt een 4G voor thuis / in het buitengebied oplossing en je wilt het maximale eruit halen? Met deze tips voor 4G thuis helpen we je graag op weg:
 
-1. **Check je snelheid.** Deze speedtest wordt veel door monteurs gebruikt: [Speedtest.nl](https://speedtest.nl/). Ook beschikbaar als app. Zo bepaal je waar het precies aan ligt: aan de afstand tussen je apparaat en de router (trage WiFi), of aan de plaatsing van de router (trage 4G)? Voor traag WiFi zijn er allerlei oplossingen, zoals internet via het stopcontact met een setje stroomnetadapters, een WiFi-repeater die je WiFi bereik verlengt of losse access points. Het kan ook nog aan je apparaat liggen: een oudere pc of laptop heeft een tragere internetverbinding.
-2. **Plaatsing 4G router.** De indicatielampjes op je 4G-modem vertellen je hoeveel 4G-signaal je ontvangt. Plaats je 4G router bij een raam richting je dichtstbijzijnste 4G mast. ([check hier](http://www.gsmmasten.nl/)), zo hoog mogelijk in huis. Dus niet in je meterkast.
+1. **Check je snelheid.** Deze speedtest wordt veel door monteurs gebruikt: [Speedtest.nl](https://speedtest.nl/){:target="_blank"}. Ook beschikbaar als app. Zo bepaal je waar het precies aan ligt: aan de afstand tussen je apparaat en de router (trage WiFi), of aan de plaatsing van de router (trage 4G)? Voor traag WiFi zijn er allerlei oplossingen, zoals internet via het stopcontact met een setje stroomnetadapters, een WiFi-repeater die je WiFi bereik verlengt of losse access points. Het kan ook nog aan je apparaat liggen: een oudere pc of laptop heeft een tragere internetverbinding.
+2. **Plaatsing 4G router.** De indicatielampjes op je 4G-modem vertellen je hoeveel 4G-signaal je ontvangt. Plaats je 4G router bij een raam richting je dichtstbijzijnste 4G mast. ([check hier](http://www.gsmmasten.nl/){:target="_blank"}), zo hoog mogelijk in huis. Dus niet in je meterkast.
 3. **4G buitenantenne.** Deze versterkt het 4G-signaal en bevestig je aan een buitenmuur. KPN en T-Mobile bieden deze ieder aan. We raden aan om deze ook bij dezelfde provider te halen zodat je door de helpdesk goed geholpen kunt worden. Bij KPN a € 79,99 voor buitenantenne + € 29,99 voor muur-montage, bij T-Mobile is deze € 50.
 4. **Inzicht in je dataverbruik.** Allemaal een apparaat thuis met hetzelfde besturingssysteem? Dan kunnen updates opeens samenvallen, en dat trekt nogal data opeens. Windows 10, Android en iOS bieden verbruikgegevens per app waardoor je inzicht krijgt in je dataverbruik. Je kunt ook datalimieten instellen.
 
