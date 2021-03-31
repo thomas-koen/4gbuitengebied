@@ -48,4 +48,10 @@ title: Links
 
 <a href="https://divitel.com/operators-service-providers/mesh-wifi-solution-for-service-providers/" target="_blank">Wifi solution for service providers</a>
 
-<a href="https://zakelijk-glasvezel.nl/" target="_blank"> Zakelijk glasvezel internet</a>
+<a href="https://zakelijk-glasvezel.nl/" target="_blank">Zakelijk glasvezel internet</a>
+
+<a href="https://beeproger.com/maatwerk-software-laten-ontwikkelen/" target="_blank">Maatwerk software</a>
+
+<a href="https://www.alleeninkt.nl/inktcartridges/" target="_blank">inktcartridges kopen</a>
+
+<a href="https://brflex.nl/vacatures/dedemsvaart/" target="_blank">Vacatures in Dedemsvaart</a>
