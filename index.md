@@ -10,11 +10,11 @@ title: 4G voor thuis wanneer er geen ADSL is
 _Bekijk direct de vier oplossingen, onze_ _[buitengebied internet vergelijking](/vergelijking)_ _of lees hieronder eerst hoe het nou zit:_
 
 |Aanbieder|Oplossing|
-|---|---|
-|<img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo"><br />_KPN Netwerk_|[**"Sneller Internet Buitengebied"**](/kpn-4g-buitengebied) <br />Je hebt ADSL van KPN maar die is traag? Dan schakelt 4G bij in dit gratis abonnement voor KPN-klanten.|
-|<img style="width:100px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo"><br />_T-Mobile-netwerk_|[**"4G voor thuis"**](/t-mobile-4g-voor-thuis) <br />De goedkoopste zonder KPN-ADSL. Snel internet waar je ook woont met 4G voor thuis. Sim only, met Huawei B818 4G binnenrouter of met versterkt 4G voor Extra Snel.|
-|<img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo"><br />_T-Mobile-netwerk_|[**"Tijdelijk 4G internet&quot; EN &quot;4G/5G abonnement"**](/evenwifi-tijdelijk-onbeperkt-4g-internet) <br />Onbeperkt? Hier kun je het meeste verbruiken: tot wel 1000 GB per maand. Standaard tot 32 gebruikers, maar ook 50, 100 en 150 is mogelijk bij tijdelijk 4G internet.|
-|<img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo"><br />_KPN-netwerk_|[**"Snel Internet Buitengebied"**](/internet-creators-snel-internet-buitengebied) <br />Snel internet in het buitengebied zonder gedoe. Echt advies &amp; maatwerk. Met de garantie dat het gewoon perfect werkt. Bij KPN of T-Mobile, aanbod op maat.|
+|:---:|---|
+|<img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo"><br /><sub><sup>_KPN Netwerk_</sup></sub>|[**"Sneller Internet Buitengebied"**](/kpn-4g-buitengebied) <br />Je hebt ADSL van KPN maar die is traag? Dan schakelt 4G bij in dit gratis abonnement voor KPN-klanten.|
+|<img style="width:100px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo"><br /><sub><sup>_T-Mobile-netwerk_</sup></sub>|[**"4G voor thuis"**](/t-mobile-4g-voor-thuis) <br />De goedkoopste zonder KPN-ADSL. Snel internet waar je ook woont met 4G voor thuis. Sim only, met Huawei B818 4G binnenrouter of met versterkt 4G voor Extra Snel.|
+|<img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo"><br /><sub><sup>_T-Mobile-netwerk_</sup></sub>|[**"Tijdelijk 4G internet&quot; EN &quot;4G/5G abonnement"**](/evenwifi-tijdelijk-onbeperkt-4g-internet) <br />Onbeperkt? Hier kun je het meeste verbruiken: tot wel 1000 GB per maand. Standaard tot 32 gebruikers, maar ook 50, 100 en 150 is mogelijk bij tijdelijk 4G internet.|
+|<img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo"><br /><sub><sup>_KPN-netwerk_</sup></sub>|[**"Snel Internet Buitengebied"**](/internet-creators-snel-internet-buitengebied) <br />Snel internet in het buitengebied zonder gedoe. Echt advies &amp; maatwerk. Met de garantie dat het gewoon perfect werkt. Bij KPN of T-Mobile, aanbod op maat.|
 
 Kun je nog niet direct kiezen tussen deze 4? Check onze [Buitengebied Internet Vergelijker](/vergelijking).
 

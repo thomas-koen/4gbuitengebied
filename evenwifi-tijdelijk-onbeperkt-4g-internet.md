@@ -35,6 +35,8 @@ Check [hier tijdelijk onbeperkt van EvenWifi](https://portal.keepgo.eu/ex/rent/o
 
 Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://portal.keepgo.eu/ex/rent/onbeperkt4g/){:target="_blank"}. 
 
+---
+
 ### VOORDELEN EVENWIFI tijdelijk onbeperkt 4G en 4G/5G abonnementen
 
 - Echt **Onbeperkt 4G** (tot 1000 GB per maand althans)
@@ -54,6 +56,8 @@ Ze bieden ook nog es een niet **goed=geld terug garantie**.
 - Alleen het T-Mobile netwerk.
 - DUUR! € 79,95 per maand bij 12 of 24 maanden abonnement.
 - Bij 12 maanden €50 aansluitkosten, bij 24 maanden geen aansluitkosten.
+
+---
 
 ### Wanneer kies je EvenWifi?
 

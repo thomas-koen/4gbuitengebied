@@ -12,6 +12,8 @@
 **[Bekijk KPN &#39;Sneller Internet Buitengebied&#39; »](/kpn/){:target="_blank"}**
 <br /><br />
 
+---
+
 <img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">
 
 #### **Wanneer kies je T-Mobile 4G voor Thuis?**
@@ -22,6 +24,8 @@
 
 **[Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; »](/tmobile/){:target="_blank"}**
 <br /><br />
+
+---
 
 <img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">
 
@@ -35,6 +39,8 @@
 
 **[Bekijk EvenWifi &#39;Tijdelijk Onbeperkt&#39; en &#39;4G/5G abonnementen&#39; »](/evenwifi/){:target="_blank"}**
 <br /><br />
+
+---
 
 <img style="width:100px; float:left; padding-right:25px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo">
 
