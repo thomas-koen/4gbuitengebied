@@ -12,6 +12,8 @@
 
 [**Bekijk direct alle abonnementen op EvenWifi &raquo;**](/evenwifi/){:target="_blank"}
 
+---
+
 ### Hoe onbeperkt is 4G onbeperkt van EvenWifi?
 
 Er zijn geen harde limieten en je snelheid wordt niet verlaagd bij veel verbruik. Maar als je het internet kromtrekt, wordt er wel (netjes) aan de bel getrokken. Tot 500 GB is geen probleem, en ook de 1000 GB kun je rustig aantikken in de maand. Maar 100 GB per dag? Dat wordt te gek.
@@ -49,7 +51,7 @@ Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](
 - **Beoordeeld op Kiyoh met een 8,9**
 - 4G Buiten Antenne beschikbaar
 
-Ze bieden ook nog es een niet **goed=geld terug garantie**.
+Ze bieden ook nog es een **niet goed=geld terug garantie**.
 
 ### NADELEN EVENWIFI tijdelijk onbeperkt 4G en 4G/5G abonnementen
 
@@ -66,6 +68,8 @@ Met 32 tot 64 gebruikers, onbeperkt 4G gebruik en zakelijke beschikbaarheid is E
 [**Kijk hier voor meer EvenWifi informatie en aanmelden »**](https://4gbuitengebied.nl/evenwifi/){:target="_blank"}
 
 [Bekijk de reviews op Kiyoh](https://www.kiyoh.com/reviews/1042083/even_wi-fi?from=widget&amp;lang=nl){:target="_blank"}
+
+---
 
 ## 100% tevredenheid gegarandeerd door EvenWifi
 Let op! Naast een wettelijk herroepingsrecht (Wet Kopen op Afstand) hanteert EvenWifi daar bovenop een &#39;niet goed geld terug garantie&#39;. Je bent dus zeker van een goed product dat volledig naar jouw wensen functioneert: onbeperkt 4G, 50 tot 200 Mbps, voor 32 of 64 gebruikers. Wij van 4Gbuitengebied.nl zijn alleen de tussenpartij die alle aanbieders van 4G voor thuis en buitengebied helder voor je in kaart brengen.
