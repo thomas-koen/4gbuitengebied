@@ -55,3 +55,7 @@ title: Links
 <a href="https://www.alleeninkt.nl/inktcartridges/" target="_blank">inktcartridges kopen</a>
 
 <a href="https://brflex.nl/vacatures/dedemsvaart/" target="_blank">Vacatures in Dedemsvaart</a>
+
+<a href="https://boji.nl/collections/android-tv-box" target="_blank">Android TV</a>
+
+<a href="https://boji.nl/blogs/news/beste-apps-android-tv-box-2021" target="_blank">Android TV Apps</a>
