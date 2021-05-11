@@ -59,3 +59,6 @@ title: Links
 <a href="https://boji.nl/collections/android-tv-box" target="_blank">Android TV</a>
 
 <a href="https://boji.nl/blogs/news/beste-apps-android-tv-box-2021" target="_blank">Android TV Apps</a>
+
+<a href="https://www.transip.nl/webhosting" target="_blank">webhosting bedrijf</a>
+
