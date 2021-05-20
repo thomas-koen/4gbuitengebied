@@ -6,6 +6,7 @@ image: '/assets/images/cheesy-bureau-foto.jpg'
 hero_image: /assets/images/cheesy-bureau-foto.jpg
 hero_height: is-large
 published: true
+permalink: starter-ondernemer-hier-op-letten
 ---
 
 Het kan een goede keuze zijn om een eigen onderneming te beginnen. Als je dit van plan bent, is het wel van belang dat je goed nadenkt over wat voor bedrijf je wilt starten en hoe je dit gaat doen. Er zijn namelijk veel dingen waar je rekening mee moet houden en daarnaast kunnen er veel dingen misgaan. Daarom is de voorbereiding voor het starten van het bedrijf erg belangrijk om later succes te kunnen behalen. 

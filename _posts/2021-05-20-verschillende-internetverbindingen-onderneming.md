@@ -6,6 +6,7 @@ image: '/assets/images/man-achter-bureau.jpg'
 hero_image: /assets/images/man-achter-bureau.jpg
 hero_height: is-large
 published: true
+permalink: verschillende-internetverbindingen-onderneming
 ---
 Het is leuk om een eigen onderneming te hebben, maar het is wel van belang dat je goed het overzicht bewaart over alles wat je moet doen. Als je eigenaar bent van een bedrijf heb je namelijk veel verantwoordelijkheden. Je moet een hoop dingen regelen zodat jij en je werknemers op een goede manier aan de slag kunnen gaan. Het is bijvoorbeeld van belang dat je een goede internetverbinding hebt als je op de zaak bent. 
 

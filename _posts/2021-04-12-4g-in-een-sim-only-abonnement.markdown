@@ -7,6 +7,7 @@ image: '/assets/images/vrouw-op-telefoon.jpg'
 hero_image: /assets/images/vrouw-op-telefoon.jpg
 hero_height: is-large
 published: true
+permalink: 4g-sim-only-abonnement
 ---
 
 Wanneer er interesse is in 4G voor thuis of buitenshuis, zijn er een aantal mogelijkheden. Zo kan er bijvoorbeeld gekozen worden voor een MiFi router die 4G ondersteund. Een andere mogelijkheid is een sim only abonnement. In sommige situaties is dit een prima oplossing, vooral wanneer het gaat om tijdelijke oplossingen.
