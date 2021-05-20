@@ -6,6 +6,33 @@ theme_color: '#159957'
 fixed_navbar: top
 footer_menu: footer-menu
 
+paginate: 5
+paginate_path: "/blog/page:num"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+markdown: kramdown
+highlighter: rouge
+
 defaults:
   -
     scope:
