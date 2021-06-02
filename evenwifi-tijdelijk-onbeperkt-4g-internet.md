@@ -3,14 +3,36 @@
 <img style="width:100px; float:right;  padding-left:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">
 **Ze heten officieel &#39;evenwifi&#39; (kleine letters, maar wij vinden EvenWifi mooier staan), zijn onderdeel van Keepgo Europe, en lanceerde in 2020 de derde oplossing voor internet in het buitengebied via 4G. Vergelijkbaar met 4G voor thuis van T-Mobile, maar dan zonder de snelheidslimiet van 25Mbps en zonder de FUP van T-Mobile. Ook als je duizend GB in de maand download is dat geen probleem (JA, dat hebben we zwart op wit!)**
 
-## Onbeperkt 4G abonnementen van EvenWifi
+## Evenwifi via T-Mobile netwerk (enkel zakelijk)
 
 | Maandelijks<br />_Onbeperkt 4g_ | 12 Maanden<br />_Onbeperkt 4g_ | 24 Maanden<br />_Onbeperkt 4g_ |
 | --- | --- | --- |
 | **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
 | + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk direct alle abonnementen op EvenWifi &raquo;**](/evenwifi/){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via T-Mobile (alleen zakelijk) &raquo;**](https://portal.keepgo.eu/ex/subscription/onbeperkt4g){:target="_blank"}
+
+---
+
+## Evenwifi via KPN netwerk
+
+| Maandelijks<br />_Onbeperkt 4g_ | 12 Maanden<br />_Onbeperkt 4g_ | 24 Maanden<br />_Onbeperkt 4g_ |
+| --- | --- | --- |
+| **€119,- p/m** | **€109,- p/m** | **€99,- p/m** |
+| + €50,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
+
+[**Bekijk de Evenwifi abonnementen via KPN netwerk &raquo;**](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_kpn){:target="_blank"}
+
+---
+
+## Evenwifi via Vodafone netwerk
+
+| Maandelijks<br />_Max. 400GB/mnd_ | 12 Maanden<br />_Max. 400GB/mnd_ | 24 Maanden<br />_Max. 400GB/mnd_ |
+| --- | --- | --- |
+| **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
+| + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
+
+[**Bekijk de Evenwifi abonnementen via Vodafone netwerk &raquo;**](/evenwifi/){:target="_blank"}
 
 ---
 
@@ -46,17 +68,17 @@ Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](
 - Standaard **downloadsnelheid 50 Mbps**, maximaal mogelijk tot **200 Mbps** met upgrade modem
 - Vanaf 32 gebruikers en met upgrade modem tot 64 gebruikers
 - Ook **zakelijk** beschikbaar
-- Vast **IP-adres** mogelijk op aanvraag
+- Vast **IP-adres** mogelijk bij KPN-netwerk
 - **Plug &amp; Play** (aansluiten op stroom en het werkt)
 - **Beoordeeld op Kiyoh met een 8,9**
 - 4G Buiten Antenne beschikbaar
+- Keuze uit KPN-, Vodafone- of T-mobile-netwerk (T-Mobile enkel zakelijk)
 
 Ze bieden ook nog es een **niet goed=geld terug garantie**.
 
 ### NADELEN EVENWIFI tijdelijk onbeperkt 4G en 4G/5G abonnementen
 
-- Alleen het T-Mobile netwerk.
-- DUUR! € 79,95 per maand bij 12 of 24 maanden abonnement.
+- DUUR! vanaf € 79,95 per maand bij 12 of 24 maanden abonnement.
 - Bij 12 maanden €50 aansluitkosten, bij 24 maanden geen aansluitkosten.
 
 ---
@@ -65,7 +87,14 @@ Ze bieden ook nog es een **niet goed=geld terug garantie**.
 
 Met 32 tot 64 gebruikers, onbeperkt 4G gebruik en zakelijke beschikbaarheid is EvenWifi een ideale commerciële oplossing voor gasten op de boot, de camping of in vakantiehuisjes. Of voor de hardcore gamers / HD videostreamers in het buitengebied die smakelijk moeten lachen om een FUPje van slechts 100 GB.
 
-[**Kijk hier voor meer EvenWifi informatie en aanmelden »**](https://4gbuitengebied.nl/evenwifi/){:target="_blank"}
+[Bekijk **onbeperkt 4G** via het **T-Mobile netwerk** (alleen zakelijk) »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g){:target="_blank"}
+
+[Bekijk **onbeperkt 4G** via het **KPN netwerk** (particulier & zakelijk) »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_kpn){:target="_blank"}
+
+[Bekijk **4G** via het **Vodafone netwerk** (maandlimiet van 400GB, particulier & zakelijk) »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_tmo_5g){:target="_blank"}
+
+Ben je een zakelijke klant en moet het nog sneller? Kies dan voor de [**5G** oplossing via het T-Mobile netwerk »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_tmo_5g){:target="_blank"}
+
 
 [Bekijk de reviews op Kiyoh](https://www.kiyoh.com/reviews/1042083/even_wi-fi?from=widget&amp;lang=nl){:target="_blank"}
 
