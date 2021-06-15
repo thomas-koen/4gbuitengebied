@@ -42,5 +42,11 @@ defaults:
       type: "pages"
     values:
       hero_image: /assets/images/koeien.jpg
-      show_sidebar: false
-      menubar: menu-zijbalk
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      show_sidebar: true

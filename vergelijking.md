@@ -1,3 +1,8 @@
+---
+hero_image: /assets/images/gozer-in-lab.jpg
+hero_height: is-large
+---
+
 ## Buitengebied internet vergelijker – KPN, T-Mobile, EvenWifi en Internet Creators
 
 **De 4G-oplossingen van T-Mobile, KPN, EvenWifi en Internet Creators verschillen flink. Wat het beste bij jou past hangt van je situatie af.**

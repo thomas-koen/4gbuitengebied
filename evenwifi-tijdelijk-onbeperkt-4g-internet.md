@@ -1,3 +1,6 @@
+---
+hide_hero: true
+---
 
 # EvenWifi: Onbeperkt 4G - review
 <img style="width:100px; float:right;  padding-left:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">

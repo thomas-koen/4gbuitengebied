@@ -1,3 +1,6 @@
+---
+hide_hero: true
+---
 
 ## Internet Creators – Snel internet voor iedereen – review
 <img style="float: right; width:200px;" src="/assets/images/logo-internet-creators.svg" alt="Internet Creators logo">

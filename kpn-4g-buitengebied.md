@@ -1,3 +1,7 @@
+---
+hide_hero: true
+---
+
 # KPN: Sneller Internet Buitengebied - review
 <img style="width:100px; float:right; padding-left:25px;" src="/assets/images/logo-KPN.png" alt="KPN Logo">
 **KPN biedt &#39;Sneller Internet Buitengebied&#39; voor consumenten en ondernemers in een gebied waar de komende zes maanden niet meer dan 30 Mbit/sec downloadsnelheid kan worden bereikt via KPN. Er moet ook genoeg 4G capaciteit en 4G binnenshuisdekking zijn voor het adres. Dit is een _aanvulling_ op een bestaande KPN-internetverbinding. Dat zijn dus een boel voorwaarden, maar KPN zegt dat dit voor zo&#39;n 440.000 adressen interessant kan zijn.**

@@ -1,3 +1,7 @@
+---
+hide_hero: true
+---
+
 # T-Mobile: 4G voor Thuis met 4G unlimited
 <img style="width:100px; float:right;  padding-left:25px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">
 
