@@ -8,10 +8,10 @@ hide_hero: true
 
 ## 4G snel internet buitengebied - abonnementen
 
-| €95,- p/m     | €89,- p/m     | €79,- p/m  |
-| ------------- | ------------- | ------------- |
-| Maandelijks opzegbaar     | 12 maanden | 24 maanden |
-| Plug & play | Plug & play | Plug & play+ |
+| €89,- p/m     | €79,- p/m     |
+| ------------- | ------------- |
+| Maandelijks opzegbaar     | 12 maanden |
+| Plug & play | Plug & play |
 
 
 **[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/){:target="_blank"}**
