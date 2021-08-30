@@ -13,7 +13,7 @@ hide_hero: true
 | **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
 | + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk de Evenwifi abonnementen via T-Mobile (alleen zakelijk) &raquo;**](https://portal.keepgo.eu/ex/subscription/onbeperkt4g){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via T-Mobile (alleen zakelijk) &raquo;**](https://evenwifi.nl/tmobile-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 ---
 
@@ -24,7 +24,7 @@ hide_hero: true
 | **€119,- p/m** | **€109,- p/m** | **€99,- p/m** |
 | + €50,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk de Evenwifi abonnementen via KPN netwerk &raquo;**](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_kpn){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via KPN netwerk &raquo;**](https://evenwifi.nl/kpn-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 ---
 
@@ -35,7 +35,7 @@ hide_hero: true
 | **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
 | + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk de Evenwifi abonnementen via Vodafone netwerk &raquo;**](/evenwifi/){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via Vodafone netwerk &raquo;**](https://evenwifi.nl/vodafone-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 ---
 
@@ -58,9 +58,9 @@ Wanneer je tijdelijk even onbeperkt 4G per dag nodig hebt. Zo werkt het:
 - Altijd: borgsom a € 150.
 - Plug &amp; play – modem is al ingesteld en heeft alleen stroom nodig.
 
-Check [hier tijdelijk onbeperkt van EvenWifi](https://portal.keepgo.eu/ex/rent/onbeperkt4g/){:target="_blank"}
+Check [hier tijdelijk onbeperkt van EvenWifi](https://evenwifi.nl/tijdelijk-onbeperkt?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
-Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://portal.keepgo.eu/ex/rent/onbeperkt4g/){:target="_blank"}. 
+Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://evenwifi.nl/beurzen-evenementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}. 
 
 ---
 
@@ -90,13 +90,13 @@ Ze bieden ook nog es een **niet goed=geld terug garantie**.
 
 Met 32 tot 64 gebruikers, onbeperkt 4G gebruik en zakelijke beschikbaarheid is EvenWifi een ideale commerciële oplossing voor gasten op de boot, de camping of in vakantiehuisjes. Of voor de hardcore gamers / HD videostreamers in het buitengebied die smakelijk moeten lachen om een FUPje van slechts 100 GB.
 
-[Bekijk **onbeperkt 4G** via het **T-Mobile netwerk** (alleen zakelijk) »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g){:target="_blank"}
+[Bekijk **onbeperkt 4G** via het **T-Mobile netwerk** (alleen zakelijk) »](https://evenwifi.nl/tmobile-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
-[Bekijk **onbeperkt 4G** via het **KPN netwerk** (particulier & zakelijk) »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_kpn){:target="_blank"}
+[Bekijk **onbeperkt 4G** via het **KPN netwerk** (particulier & zakelijk) »](https://evenwifi.nl/kpn-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
-[Bekijk **4G** via het **Vodafone netwerk** (maandlimiet van 400GB, particulier & zakelijk) »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_tmo_5g){:target="_blank"}
+[Bekijk **4G** via het **Vodafone netwerk** (maandlimiet van 400GB, particulier & zakelijk) »](https://evenwifi.nl/vodafone-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
-Ben je een zakelijke klant en moet het nog sneller? Kies dan voor de [**5G** oplossing via het T-Mobile netwerk »](https://portal.keepgo.eu/ex/subscription/onbeperkt4g_tmo_5g){:target="_blank"}
+Ben je een zakelijke klant en moet het nog sneller? Kies dan voor de [**5G** oplossing via het T-Mobile netwerk »](https://evenwifi.nl/5g-voor-de-zaak/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 
 [Bekijk de reviews op Kiyoh](https://www.kiyoh.com/reviews/1042083/even_wi-fi?from=widget&amp;lang=nl){:target="_blank"}
