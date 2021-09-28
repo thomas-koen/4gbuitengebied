@@ -62,3 +62,5 @@ title: Links
 
 <a href="https://www.transip.nl/webhosting" target="_blank">webhosting bedrijf</a>
 
+<a href="https://elektricienamsterdam247.nl/" target="_blank">Elektra Amsterdam eraf? Bel elektricien Amsterdam</a>
+
