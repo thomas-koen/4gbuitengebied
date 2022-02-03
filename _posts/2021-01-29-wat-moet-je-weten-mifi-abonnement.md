@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wat moet je weten wanneer je een MiFi abonnement gaat kiezen?"
-date:   2022-03-29 9:34:43
+date:   2022-01-29 9:34:43
 image: '/assets/images/gast-met-laptop.jpg'
 hero_image: /assets/images/gast-met-laptop.jpg
 hero_height: is-large
@@ -9,13 +9,11 @@ published: true
 permalink: wat-moet-je-weten-mifi-abonnement
 ---
 
-# Wat moet je weten wanneer je een MiFi abonnement gaat kiezen?
-
 MiFi klinkt weliswaar als wifi, maar is net iets anders. De term komst voort uit een samenvoeging van &#39;mobile&#39; en &#39;Wi-Fi&#39; en is eigenlijk hetzelfde als wifi, maar met één groot verschil: er is een simkaart voor nodig. Deze plaats je in de handzame MiFi router en vervolgens kun je meerdere apparaten hiermee verbinden. Alhoewel je in theorie de simkaart van je telefoon kunt gebruiken, is een data only abonnement, oftewel MiFi abonnement voor alleen je MiFi router raadzaam. De simkaart maakt verbinding met het netwerk van je provider en de wifizender in de router zet een draadloos netwerk op.
 
 ## Wanneer heb je MiFi nodig?
 
-Een MiFi router kun je bij tal van winkels los kopen. MiFi routers in combinatie met een data only simkaart (of een simkaart met een prepaid databundel) worden vooral tijdens vakanties gebruikt. Op een camping is vaak geen tot nauwelijks openbare wifi. Maar ook tijdens een verblijf in het buitenland is het fijn om niet afhankelijk te zijn van openbare wifi, of het moeten belasten van je mobiele telefoon door deze als hotspot in de stellen. Tot slot is MiFi ook perfect om in de auto van internet gebruik te kunnen maken.
+Een MiFi router kun je bij tal van winkels [los kopen](/coolblue-mifi/). MiFi routers in combinatie met een data only simkaart (of een simkaart met een prepaid databundel) worden vooral tijdens vakanties gebruikt. Op een camping is vaak geen tot nauwelijks openbare wifi. Maar ook tijdens een verblijf in het buitenland is het fijn om niet afhankelijk te zijn van openbare wifi, of het moeten belasten van je mobiele telefoon door deze als hotspot in de stellen. Tot slot is MiFi ook perfect om in de auto van internet gebruik te kunnen maken.
 
 ## Een data only abonnement (MiFi abonnement) of een prepaid databundel?
 
@@ -23,11 +21,11 @@ Een data simkaart voor MiFi werkt exact zoals de simkaart in je telefoon. Je kun
 
 ## Zaken om rekening mee te houden wanneer je een MiFi router gaat gebruiken
 
-De meeste mensen kiezen ervoor om een sim only data abonnement af te sluiten. Het simkaartje dat je al voor je telefoon gebruikt zal in de meeste gevallen namelijk over een normale databundel beschikken, die voor het gebruik in de MiFi router onvoldoende zal zijn. Bedenk overigens ook hoeveel mensen er gebruik moeten kunnen maken van de mobiele verbinding. Sommige MiFi routers staan verbindingen met maar liefst tien apparaten toe. Handig voor wanneer je met een grote groep bent.
+De meeste mensen kiezen ervoor om een [sim only data abonnement](/t-mobile-data-only/) af te sluiten. Het simkaartje dat je al voor je telefoon gebruikt zal in de meeste gevallen namelijk over een normale databundel beschikken, die voor het gebruik in de MiFi router onvoldoende zal zijn. Bedenk overigens ook hoeveel mensen er gebruik moeten kunnen maken van de mobiele verbinding. Sommige MiFi routers staan verbindingen met maar liefst tien apparaten toe. Handig voor wanneer je met een grote groep bent.
 
 ## Welke simkaart is voor jou het meest geschikt?
 
-Welke simkaart je zou moeten aanschaffen, is afhankelijk van hoe jij je MiFi wilt gaan gebruiken. De meesten doen dit voor internet onderweg en op vakantie. Anderen willen een MiFi router voor dagelijks gebruik gaan inzetten. In dat laatste geval kies je het beste voor een zo groot mogelijke databundel of zelfs een databundel met onbeperkt internet. Zul je de MiFi router slechts enkele weken per jaar gebruiken? Dan kun je je beter oriënteren op een prepaid databundel. Je databundel kun je in de gehele Europese Unie zonder extra kosten gebruiken.
+Welke simkaart je zou moeten aanschaffen, is afhankelijk van hoe jij je MiFi wilt gaan gebruiken. De meesten doen dit voor internet onderweg en op vakantie. Anderen willen een MiFi router voor dagelijks gebruik gaan inzetten. In dat laatste geval kies je het beste voor een zo groot mogelijke databundel of zelfs een [databundel met onbeperkt internet](/t-mobile-data-only/). Zul je de MiFi router slechts enkele weken per jaar gebruiken? Dan kun je je beter oriënteren op een prepaid databundel. Je databundel kun je in de gehele Europese Unie zonder extra kosten gebruiken.
 
 ## Hoe onbeperkt is onbeperkt internet?
 
@@ -43,7 +41,7 @@ Een data only sim abonnement is bij verschillende providers, waaronder T-Mobile,
 
 ### Wat biedt welke provider?
 
-Op het moment van schrijven heb je bij alle providers verschillende keuzemogelijkheden. Zo biedt KPN onder andere abonnementen van 10GB aan, maar ook van 1GB, voor de bescheiden gebruikers. In combinatie met andere producten van KPN krijg je zelfs korting op je abonnement. T-Mobile bied je de keuze uit een 1GB, 5GB, 10GB of onbeperkte databundel. Vodafone bied je 1GB, 5GB of 15GB. Deze provider biedt nog geen data only onbeperkt aan.
+Op het moment van schrijven heb je bij alle providers verschillende keuzemogelijkheden. Zo biedt KPN onder andere abonnementen van 10GB aan, maar ook van 1GB, voor de bescheiden gebruikers. In combinatie met andere producten van KPN krijg je zelfs korting op je abonnement. [T-Mobile](/t-mobile-data-only/) bied je de keuze uit een 1GB, 5GB, 10GB of onbeperkte databundel. Vodafone bied je 1GB, 5GB of 15GB. Deze provider biedt nog geen data only onbeperkt aan.
 
 ## Internetten met 5G
 
