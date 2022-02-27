@@ -50,31 +50,31 @@ hide_hero: true
 
 **Bij elk abonnement geldt:**
 
-- Vooraf telefonisch advies over welk pakket en netwerk past
+- **Vooraf telefonisch advies** over welk pakket en netwerk past
 - Bij elk pakket is een fair use policy van toepassing
 - Modem via Internet Creators kopen voor Plug & Play of eigen 4G/5G modem
-- KPN of T-Mobile netwerk afhankelijk van de wensen of dekking
+- **KPN of T-Mobile** netwerk afhankelijk van de wensen of dekking
 
 **5G Internet**
 
-Op alle abonnementen is 5G geactiveerd voor de best mogelijk snelheid en stabiliteit. We bieden verschillende 5G modems aan, neem vooraf contact op voor een persoonlijk advies en aanbod.
+Op alle abonnementen is **5G geactiveerd** voor de best mogelijk snelheid en stabiliteit. We bieden verschillende 5G modems aan, neem vooraf contact op voor een persoonlijk advies en aanbod.
 
 ![Alt](/assets/images/vrouw-op-whiteboard.jpg "Internet Creators Snel internet buitengebied")
 
 ## Voordelen Internet Creators
 
-- Ze komen altijd met eerlijk en transparant advies en streven naar 100% klanttevredenheid
-- Bijna overal snel internet doordat ze onafhankelijk KPN en T-Mobile kunnen aanbieden
-- Vriendelijke FUP. Als jij het internet leegtrekt, heeft je buurman minder goed bereik. Een keertje is geen probleem, je snelheid wordt niet direct omlaag gegooid als je even veel verbruikt. Bij  extreem verbruik trekken ze netjes aan de bel.
+- Ze komen altijd met eerlijk en transparant advies en streven naar **100% klanttevredenheid**
+- Bijna **overal snel internet** doordat ze onafhankelijk KPN en T-Mobile kunnen aanbieden
+- **Vriendelijke FUP**. Als jij het internet leegtrekt, heeft je buurman minder goed bereik. Een keertje is geen probleem, je snelheid wordt niet direct omlaag gegooid als je even veel verbruikt. Bij extreem verbruik trekken ze netjes aan de bel.
 - Ze beschikken over interne tools waarmee ze de locaties en straalrichting van de masten kunnen inzien.
-- Advies & maatwerk. Van het standaardpakket tot het aanleggen van een eigen netwerk op de boerderij of op kantoor. Ze regelen het.
+- **Advies & maatwerk**. Van het standaardpakket tot het aanleggen van een eigen netwerk op de boerderij of op kantoor. Ze regelen het.
 - Vast IP mogelijk dat gekoppeld wordt aan het abonnement en vooraf wordt gedeeld.
 - Niet tevreden met de snelheid op het KPN en T-Mobile netwerk? Dan kan het contract met 1 maand opzegtermijn in overleg worden opgezegd.
 
 ## Nadelen Internet Creators
 
 - Extra kosten voor maandelijkse contracten
-- Geen modem inbegrepen, wel de mogelijkheid om zelf een modem tekopen of via Internet Creators
+- Geen modem inbegrepen, wel de mogelijkheid om zelf een modem te kopen of via Internet Creators
 - Eenmalige kosten
 
 **[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/){:target="_blank"}**
