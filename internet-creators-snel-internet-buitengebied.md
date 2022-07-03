@@ -3,7 +3,7 @@ hide_hero: true
 ---
 
 ## Internet Creators – Snel internet voor iedereen – review
-<img style="float: right; width:200px;" src="/assets/images/logo-internet-creators.svg" alt="Internet Creators logo">
+<img style="float: right; width:200px; margin-left:10px; margin-bottom:10px;" src="/assets/images/internet-creators-socialicon.png" alt="Internet Creators logo">
 **Een startup dat begon met een netwerkspecialist op zoek naar 4G in het buitengebied en besloot om het zelf beter aan te bieden. Maatwerk, persoonlijk advies en garantie dat je internet het gewoon echt doet. Elke aanmelding wordt eerst netjes nagebeld om de specifieke wensen door te nemen. Advies op basis van je locatie (waar staat de dichtstbijzijnste mast? Wat is de straalrichting?) behoort tot de dienstverlening. Vervolgens krijg je technisch maatwerk. Internet Creators? Wij noemen ze graag Internet Wizards!**
 
 ## 4G snel internet buitengebied - abonnementen
@@ -80,6 +80,6 @@ Op alle abonnementen is **5G geactiveerd** voor de best mogelijk snelheid en sta
 **[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/){:target="_blank"}**
 
 > ## &#39;Internet is juist in het buitengebied zo belangrijk&#39;
-> <img style="float: left; width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet Creators logo">&quot;Wij gaan voor kwaliteit en tevreden klanten, niet voor de aantallen", zegt Bas, oprichter van Internet Creators. "Elke aanmelding bellen we eerst: wat heb je precies nodig? Wat wil je doen? Heb je misschien gamende kinderen die vaak grote games downloaden? Hmm, dan is T-Mobile bijvoorbeeld minder geschikt. We kijken naar alle mogelijkheden van de locatie zodat je exact weet welke snelheid haalbaar is. We kunnen je ook maatwerk bieden, zoals meerdere WiFi punten of het aanleggen van een netwerk op locatie.", schetst Bas. "Is de dekking toch niet goed? Dan kun je het contract gewoon opzeggen zonder gedoe."&quot;
+> <img style="float: left; width:100px; margin-right:10px; margin-bottom:10px;" src="/assets/images/internet-creators-socialicon.png" alt="Internet Creators logo">&quot;Wij gaan voor kwaliteit en tevreden klanten, niet voor de aantallen", zegt Bas, oprichter van Internet Creators. "Elke aanmelding bellen we eerst: wat heb je precies nodig? Wat wil je doen? Heb je misschien gamende kinderen die vaak grote games downloaden? Hmm, dan is T-Mobile bijvoorbeeld minder geschikt. We kijken naar alle mogelijkheden van de locatie zodat je exact weet welke snelheid haalbaar is. We kunnen je ook maatwerk bieden, zoals meerdere WiFi punten of het aanleggen van een netwerk op locatie.", schetst Bas. "Is de dekking toch niet goed? Dan kun je het contract gewoon opzeggen zonder gedoe."&quot;
 
 _Afbeelding door [WOCinTech Chat](https://www.flickr.com/photos/wocintechchat/25167708354/){:target="_blank"}, uitgegeven onder de [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/){:target="_blank"} licentie_

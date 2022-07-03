@@ -47,7 +47,7 @@ hero_height: is-large
 
 ---
 
-<img style="width:100px; float:left; padding-right:25px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo">
+<img style="width:100px; float:left; padding-right:25px;" src="/assets/images/internet-creators-logo.png" alt="Internet creators Logo">
 
 #### Wanneer kies je voor Snel internet in het Buitengebied van Internet Creators?
 - Er is geen enkele ADSL of glasvezelverbinding mogelijk en je gaat voor de **ALLERHOOGSTE SNELHEID** (tot 600 Mbps).
