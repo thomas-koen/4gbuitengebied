@@ -10,10 +10,10 @@ hide_hero: true
 
 | Maandelijks<br />_Onbeperkt 4g_ | 12 Maanden<br />_Onbeperkt 4g_ | 24 Maanden<br />_Onbeperkt 4g_ |
 | --- | --- | --- |
-| **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
-| + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
+| **€89,- p/m** | **€79,- p/m** | **€69,- p/m** |
+| + €50,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk de Evenwifi abonnementen via T-Mobile (alleen zakelijk) &raquo;**](https://evenwifi.nl/tmobile-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via T-Mobile (alleen zakelijk) &raquo;**](https://evenwifi.nl/4g-5g-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 ---
 
@@ -21,10 +21,10 @@ hide_hero: true
 
 | Maandelijks<br />_Onbeperkt 4g_ | 12 Maanden<br />_Onbeperkt 4g_ | 24 Maanden<br />_Onbeperkt 4g_ |
 | --- | --- | --- |
-| **€119,- p/m** | **€109,- p/m** | **€99,- p/m** |
+| **€159,- p/m** | **€149,- p/m** | **€139,- p/m** |
 | + €50,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk de Evenwifi abonnementen via KPN netwerk &raquo;**](https://evenwifi.nl/kpn-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via KPN netwerk &raquo;**](https://evenwifi.nl/4g-5g-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 ---
 
@@ -32,8 +32,8 @@ hide_hero: true
 
 | Maandelijks<br />_Max. 400GB/mnd_ | 12 Maanden<br />_Max. 400GB/mnd_ | 24 Maanden<br />_Max. 400GB/mnd_ |
 | --- | --- | --- |
-| **€90,- p/m** | **€79,95 p/m** | **€69,95 p/m** |
-| + €75,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
+| **€99,- p/m** | **€89,- p/m** | **€79,- p/m** |
+| + €50,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
 [**Bekijk de Evenwifi abonnementen via Vodafone netwerk &raquo;**](https://evenwifi.nl/vodafone-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
@@ -53,14 +53,14 @@ Hogere snelheid downloaden en uploaden? 5G? Van 32 naar 64 gebruikers? Dat is af
 
 Wanneer je tijdelijk even onbeperkt 4G per dag nodig hebt. Zo werkt het:
 
-- Sim Only Onbeperkt 4G: € 50 + € 3 per dag.
+- Sim Only Onbeperkt 4G: € 50 + € 2.99 per dag.
 - Sim Only Onbeperkt 4G inclusief modem: € 75 + € 3 per dag.
 - Altijd: borgsom a € 150.
 - Plug &amp; play – modem is al ingesteld en heeft alleen stroom nodig.
 
-Check [hier tijdelijk onbeperkt van EvenWifi](https://evenwifi.nl/tijdelijk-onbeperkt?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
+Check [hier tijdelijk onbeperkt van EvenWifi](https://evenwifi.nl/tijdelijk-onbeperkt-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
-Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://evenwifi.nl/beurzen-evenementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}. 
+Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](https://evenwifi.nl/tijdelijk-onbeperkt-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}. 
 
 ---
 
@@ -81,8 +81,8 @@ Ze bieden ook nog es een **niet goed=geld terug garantie**.
 
 ### NADELEN EVENWIFI tijdelijk onbeperkt 4G en 4G/5G abonnementen
 
-- DUUR! vanaf € 79,95 per maand bij 12 of 24 maanden abonnement.
-- Bij 12 maanden €50 aansluitkosten, bij 24 maanden geen aansluitkosten.
+- DUUR! vanaf €69,- per maand bij 12 of 24 maanden abonnement.
+- Bij 12 maanden €50,- aansluitkosten, bij 24 maanden geen aansluitkosten.
 
 ---
 
@@ -90,13 +90,9 @@ Ze bieden ook nog es een **niet goed=geld terug garantie**.
 
 Met 32 tot 64 gebruikers, onbeperkt 4G gebruik en zakelijke beschikbaarheid is EvenWifi een ideale commerciële oplossing voor gasten op de boot, de camping of in vakantiehuisjes. Of voor de hardcore gamers / HD videostreamers in het buitengebied die smakelijk moeten lachen om een FUPje van slechts 100 GB.
 
-[Bekijk **onbeperkt 4G** via het **T-Mobile netwerk** (alleen zakelijk) »](https://evenwifi.nl/tmobile-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
+[Bekijk de **onbeperkt 4G** abonnementen van EvenWifi »](https://evenwifi.nl/4g-5g-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
-[Bekijk **onbeperkt 4G** via het **KPN netwerk** (particulier & zakelijk) »](https://evenwifi.nl/kpn-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
-
-[Bekijk **4G** via het **Vodafone netwerk** (maandlimiet van 400GB, particulier & zakelijk) »](https://evenwifi.nl/vodafone-abonnementen/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
-
-Ben je een zakelijke klant en moet het nog sneller? Kies dan voor de [**5G** oplossing via het T-Mobile netwerk »](https://evenwifi.nl/5g-voor-de-zaak/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
+Ben je een zakelijke klant en moet het nog sneller? Kies dan voor de [**5G** oplossing van EvenWifi »](https://evenwifi.nl/onbeperkt-5g/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 
 [Bekijk de reviews op Kiyoh](https://www.kiyoh.com/reviews/1042083/even_wi-fi?from=widget&amp;lang=nl){:target="_blank"}
