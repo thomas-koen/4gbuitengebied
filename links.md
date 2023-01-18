@@ -72,3 +72,6 @@ title: Links
 
 <a href="https://www.archive-it.nl/digitaliseren" target="_blank">Archief overal bereikbaar met Archive IT </a>
 
+
+
+<a href="http://example.com" target="_blank">een anchor</a>
