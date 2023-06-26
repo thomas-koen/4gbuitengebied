@@ -13,7 +13,7 @@ MiFi klinkt weliswaar als wifi, maar is net iets anders. De term komst voort uit
 
 ## Wanneer heb je MiFi nodig?
 
-Een MiFi router kun je bij tal van winkels [los kopen](/coolblue-mifi/). MiFi routers in combinatie met een data only simkaart (of een simkaart met een prepaid databundel) worden vooral tijdens vakanties gebruikt. Op een camping is vaak geen tot nauwelijks openbare wifi. Maar ook tijdens een verblijf in het buitenland is het fijn om niet afhankelijk te zijn van openbare wifi, of het moeten belasten van je mobiele telefoon door deze als hotspot in de stellen. Tot slot is MiFi ook perfect om in de auto van internet gebruik te kunnen maken.
+Een MiFi router kun je bij tal van winkels [los kopen](https://powermifi.com). MiFi routers in combinatie met een data only simkaart (of een simkaart met een prepaid databundel) worden vooral tijdens vakanties gebruikt. Op een camping is vaak geen tot nauwelijks openbare wifi. Maar ook tijdens een verblijf in het buitenland is het fijn om niet afhankelijk te zijn van openbare wifi, of het moeten belasten van je mobiele telefoon door deze als hotspot in de stellen. Tot slot is MiFi ook perfect om in de auto van internet gebruik te kunnen maken.
 
 ## Een data only abonnement (MiFi abonnement) of een prepaid databundel?
 
