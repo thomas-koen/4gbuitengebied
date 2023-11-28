@@ -9,55 +9,75 @@ hide_hero: true
 ## 4G snel internet buitengebied - abonnementen
 
 
-#### Buitengebied Basis
+#### Odido buitengebied 5G
 
-| 12 maanden | Maandelijks |
-| --- | --- |
-| € 79,50 p/m | € 89,50 p/m |
-| Zakelijk gebruik | Zakelijk gebruik |
-| Dekking NL | Dekking NL |
-| Persoonlijk contact | Persoonlijk contact |
-| Snelheidsonderzoek | Snelheidsonderzoek |
-| Sim Only of met modem | Sim Only of met modem |
+| Odido buitengebied Plus     | Odido buitengebied Premium |
+|-----------------------------|----------------------------|
+| Maandelijks opzegbaar       | Maandelijks opzegbaar      |
+| €79 per maand               | €99 per maand              |
+| 1000GB per maand            | 1000GB per maand           |
+| Geen Service Plus           | Service plus               |
+| Dekking in Nederland        | Dekking in Nederland       |
+| Snelle levering             | Snelle levering            |
+| Persoonlijk contact         | Persoonlijk contact        |
+| Snelheidsonderzoek          | Snelheidsonderzoek         |
+| SIM-only of met modem       | SIM-only of met modem      |
+| Geen vast IP adres mogelijk | Vast IP adres mogelijk     |
 
-#### Buitengebied Plus
+**[Bekijk direct Odido buitengebied 5G-aanbod van Internet Creators &raquo;](https://www.internetcreators.nl/odido-internet-buitengebied/){:target="_blank"}**
+<br />
+<br />
 
-| 12 maanden | Maandelijks |
-| --- | --- |
-| €95,50 p/m | €105,50 p/m |
-| Privé & zakelijk gebruik | Privé & zakelijk gebruik |
-| Dekking NL | Dekking NL |
-| Persoonlijk contact | Persoonlijk contact |
-| Snelheidsonderzoek | Snelheidsonderzoek |
-| Sim Only of met modem | Sim Only of met modem |
-| Vast IP adres mogelijk | Vast IP adres mogelijk |
 
-#### Buitengebied Premium
+#### Vodafone Buitengebied 5G
 
-| 12 maanden | Maandelijks |
-| --- | --- |
-| €145 p/m | €155 p/m |
-| Veeleisend gebruik | Veeleisend gebruik |
-| Dekking NL | Dekking NL |
-| Persoonlijk contact | Persoonlijk contact |
-| Snelheidsonderzoek | Snelheidsonderzoek |
-| Sim Only of met modem | Sim Only of met modem |
-| Vast IP adres mogelijk | Vast IP adres mogelijk |
+| Vodafone buitengebied Plus  | Vodafone buitengebied Premium |
+|-----------------------------|-------------------------------|
+| Maandelijks opzegbaar       | Maandelijks opzegbaar         |
+| €79 per maand               | €109 per maand                |
+| 1000GB per maand            | 1000GB per maand              |
+| Geen Service Plus           | Service plus                  |
+| Dekking in Nederland        | Dekking in Nederland          |
+| Snelle levering             | Snelle levering               |
+| Persoonlijk contact         | Persoonlijk contact           |
+| Snelheidsonderzoek          | Snelheidsonderzoek            |
+| SIM-only of met modem       | SIM-only of met modem         |
 
-**[Bekijk direct 4G snel internet buitengebied bij Internet Creators &raquo;](/internetcreators/){:target="_blank"}**
+**[Bekijk direct Vodafone buitengebied 5G-aanbod van Internet Creators &raquo;](https://www.internetcreators.nl/odido-internet-buitengebied/){:target="_blank"}**
+<br />
+<br />
+
+
+#### KPN Buitengebied 5G
+
+| KPN buitengebied Basis | KPN buitengebied Plus  | KPN buitengebied Premium  |
+|------------------------|------------------------|---------------------------|
+| Maandelijks opzegbaar  | Maandelijks opzegbaar  | Maandelijks opzegbaar     |
+| €96 per maand          | €192 per maand         | €384 per maand            |
+| 250GB per maand        | 500GB per maand        | 1000GB per maand          |
+| Dekking in Nederland   | Dekking in Nederland   | Dekking in Nederland      |
+| Snelle levering        | Snelle levering        | Snelle levering           |
+| Persoonlijk contact    | Persoonlijk contact    | Persoonlijk contact       |
+| Snelheidsonderzoek     | Snelheidsonderzoek     | Snelheidsonderzoek        |
+| SIM-only of met modem  | SIM-only of met modem  | SIM-only of met met modem |
+| Vast IP-adres mogelijk | Vast IP-adres mogelijk | Vast IP-adres mogelijk    |
+
+
+**[Bekijk direct KPN buitengebied 5G-aanbod van Internet Creators &raquo;](https://www.internetcreators.nl/kpn-internet-buitengebied/){:target="_blank"}**
+<br />
+<br />
 
 ---
 
 **Bij elk abonnement geldt:**
 
 - **Vooraf telefonisch advies** over welk pakket en netwerk past
-- Bij elk pakket is een fair use policy van toepassing
 - Modem via Internet Creators kopen voor Plug & Play of eigen 4G/5G modem
-- **KPN of T-Mobile** netwerk afhankelijk van de wensen of dekking
+- Odido, Vodafone, KPN-netwerk afhankelijk van de wensen of dekking
 
 **5G Internet**
 
-Op alle abonnementen is **5G geactiveerd** voor de best mogelijk snelheid en stabiliteit. We bieden verschillende 5G modems aan, neem vooraf contact op voor een persoonlijk advies en aanbod.
+Op alle abonnementen is **5G geactiveerd** voor de best mogelijk snelheid en stabiliteit. Ze bieden verschillende 5G-modems aan, neem vooraf contact op voor een persoonlijk advies en aanbod.
 
 ![Alt](/assets/images/vrouw-op-whiteboard.jpg "Internet Creators Snel internet buitengebied")
 
@@ -73,7 +93,8 @@ Op alle abonnementen is **5G geactiveerd** voor de best mogelijk snelheid en sta
 
 ## Nadelen Internet Creators
 
-- Extra kosten voor maandelijkse contracten
+- Prijzen zijn excl. BTW doordat ze zich richten op de zakelijke markt maar particulieren zijn
+  welkom
 - Geen modem inbegrepen, wel de mogelijkheid om zelf een modem te kopen of via Internet Creators
 - Eenmalige kosten
 
