@@ -73,3 +73,6 @@ title: Links
 <a href="https://www.archive-it.nl/digitaliseren" target="_blank">Archief overal bereikbaar met Archive IT</a>
 
 <a href="https://signetbreedband.nl/zakelijk-internet/glasvezel/" target="_blank">glasvezel</a>
+
+<a href="https://innovaware.nl/" target="_blank">InnovaWare</a>
+
