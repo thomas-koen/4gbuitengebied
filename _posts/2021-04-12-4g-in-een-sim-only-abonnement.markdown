@@ -33,7 +33,7 @@ Ben je op zoek naar een oplossing voor buitenshuis waar meerderen gebruik van ga
 
 #### Voor welk abonnement met 4G moet ik kiezen?
 
-De beste abonnementen zijn te vinden door ze te vergelijken. Dit geldt ook voor sim only’s met 4G. De meeste abonnementen bestaan overigens gewoon uit 4G, dus eigenlijk hoef je hier niet op te filteren. Je kunt simpelweg de beste sim only abonnementen vergelijken en voor jouw favoriete abonnement kiezen. Alleen de grotere providers (T-Mobile, Vodafone, KPN en Tele2) bieden momenteel naast 4G ook 5G aan. Tijdens het bestellen kun je echter gewoon voor 4G kiezen. 
+De beste abonnementen zijn te vinden door ze te vergelijken. Dit geldt ook voor sim only’s met 4G. De meeste abonnementen bestaan overigens gewoon uit 4G, dus eigenlijk hoef je hier niet op te filteren. Je kunt simpelweg de beste sim only abonnementen vergelijken en voor jouw favoriete abonnement kiezen. Alleen de grotere providers (Odido, Vodafone, KPN en Tele2) bieden momenteel naast 4G ook 5G aan. Tijdens het bestellen kun je echter gewoon voor 4G kiezen. 
 
 Er is niet één ‘beste’ abonnement, omdat dit ligt aan de manier waarop jij je abonnement gebruikt. Op basis hiervan kun je een bundel samenstellen en vergelijken op prijs om tot jouw beste sim only (met 4G internet) te komen.
 

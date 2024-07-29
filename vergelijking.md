@@ -3,9 +3,9 @@ hero_image: /assets/images/gozer-in-lab.jpg
 hero_height: is-large
 ---
 
-## Buitengebied internet vergelijker – KPN, T-Mobile, EvenWifi en Internet Creators
+## Buitengebied internet vergelijker – KPN, Odido, EvenWifi en Internet Creators
 
-**De 4G-oplossingen van T-Mobile, KPN, EvenWifi en Internet Creators verschillen flink. Wat het beste bij jou past hangt van je situatie af.**
+**De 4G-oplossingen van Odido, KPN, EvenWifi en Internet Creators verschillen flink. Wat het beste bij jou past hangt van je situatie af.**
 
 
 <img style="width:100px; float:left; padding-right:25px;" src="/assets/images/logo-KPN.png" alt="KPN Logo">
@@ -19,15 +19,15 @@ hero_height: is-large
 
 ---
 
-<img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/T-Mobile-Logo.jpg" alt="T-mobile Logo">
+<img style="width:100px; float:left;  padding-right:25px;" src="/assets/images/logo-odido-150x150.png" alt="Odido Logo">
 
-#### **Wanneer kies je T-Mobile 4G voor Thuis?**
+#### **Wanneer kies je Odido 4G voor Thuis?**
 
 - Je zoekt **het goedkoopste 4G-abonnement** dat niet gekoppeld is aan een ADSL-oplossing zoals KPN. Voor € 36,00 per maand (bij 12 maanden) en € 35 per maand (bij 24 maanden) krijg je een prima alternatief voor ADSL in huis. Tegen een meerprijs van € 4 per maand ga je van 30Mbit/s download en 5Mbit/s upload naar 100Mbit/s download en 10Mbit/s upload.
-- **Er is geen enkele ADSL of glasvezelverbinding mogelijk en je gaat voor PRIJS**. T-Mobile biedt hiervoor zijn 4G voor Thuis abonnement.
-- **OF: je hebt KPN ADSL máár komt niet in aanmerking voor Sneller Internet Buitengebied**. Ja, dat is stom, en je bent niet de enige: Op allerlei fora wordt hierover geklaagd. Dan is T-Mobile de GOEDKOPERE mogelijkheid.
+- **Er is geen enkele ADSL of glasvezelverbinding mogelijk en je gaat voor PRIJS**. Odido biedt hiervoor zijn 4G voor Thuis abonnement.
+- **OF: je hebt KPN ADSL máár komt niet in aanmerking voor Sneller Internet Buitengebied**. Ja, dat is stom, en je bent niet de enige: Op allerlei fora wordt hierover geklaagd. Dan is Odido de GOEDKOPERE mogelijkheid.
 
-**[Bekijk T-Mobile &#39;4G voor Thuis unlimited&#39; »](/tmobile/){:target="_blank"}**
+**[Bekijk Odido &#39;4G voor Thuis unlimited&#39; »](/odido/){:target="_blank"}**
 <br /><br />
 
 ---
@@ -53,7 +53,7 @@ hero_height: is-large
 - Er is geen enkele ADSL of glasvezelverbinding mogelijk en je gaat voor de **ALLERHOOGSTE SNELHEID** (tot 600 Mbps).
 - Wanneer je de **best mogelijke internetoplossing** wilt die het 100% naar tevredenheid doet. Daar ben je bereid voor te betalen.
 - Wanneer je behoefte hebt aan **echt maatwerk** zodat je de snelste en beste oplossing hebt.
-- Je hebt geen voorkeur voor KPN of T-Mobile. Je wilt liever de optie om te switchen.
+- Je hebt geen voorkeur voor KPN of Odido. Je wilt liever de optie om te switchen.
 - Je wilt dat iemand naar jouw wensen luistert, je adviseert op de mogelijkheden en ook extra maatwerk kan bieden.
 - Je qua verbruik op een gemiddeld gezin zit (250 GB per maand).
 

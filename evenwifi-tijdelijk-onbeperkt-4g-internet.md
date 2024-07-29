@@ -4,16 +4,16 @@ hide_hero: true
 
 # EvenWifi: Onbeperkt 4G - review
 <img style="width:100px; float:right;  padding-left:25px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">
-**Ze heten officieel &#39;evenwifi&#39; (kleine letters, maar wij vinden EvenWifi mooier staan), zijn onderdeel van Keepgo Europe, en lanceerde in 2020 de derde oplossing voor internet in het buitengebied via 4G. Vergelijkbaar met 4G voor thuis van T-Mobile, maar dan zonder de snelheidslimiet van 25Mbps en zonder de FUP van T-Mobile. Ook als je duizend GB in de maand download is dat geen probleem (JA, dat hebben we zwart op wit!)**
+**Ze heten officieel &#39;evenwifi&#39; (kleine letters, maar wij vinden EvenWifi mooier staan), zijn onderdeel van Keepgo Europe, en lanceerde in 2020 de derde oplossing voor internet in het buitengebied via 4G. Vergelijkbaar met 4G voor thuis van Odido, maar dan zonder de snelheidslimiet van 25Mbps en zonder de FUP van Odido. Ook als je duizend GB in de maand download is dat geen probleem (JA, dat hebben we zwart op wit!)**
 
-## Evenwifi via T-Mobile netwerk (enkel zakelijk)
+## Evenwifi via Odido netwerk (enkel zakelijk)
 
 | Maandelijks<br />_Onbeperkt 4g_ | 12 Maanden<br />_Onbeperkt 4g_ | 24 Maanden<br />_Onbeperkt 4g_ |
 | --- | --- | --- |
 | **€89,- p/m** | **€79,- p/m** | **€69,- p/m** |
 | + €50,- aansluitkosten | + €50,- aansluitkosten | + €50,- aansluitkosten |
 
-[**Bekijk de Evenwifi abonnementen via T-Mobile (alleen zakelijk) &raquo;**](https://evenwifi.nl/4g-5g-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
+[**Bekijk de Evenwifi abonnementen via Odido (alleen zakelijk) &raquo;**](https://evenwifi.nl/4g-5g-internet/?utm_source=referral&utm_medium=banner&utm_campaign=onbeperkt4g){:target="_blank"}
 
 ---
 
@@ -75,7 +75,7 @@ Meer gebruikers? Check [hier de oplossingen voor Evenementen Wifi van EvenWifi](
 - **Plug &amp; Play** (aansluiten op stroom en het werkt)
 - **Beoordeeld op Kiyoh met een 8,9**
 - 4G Buiten Antenne beschikbaar
-- Keuze uit KPN-, Vodafone- of T-mobile-netwerk (T-Mobile enkel zakelijk)
+- Keuze uit KPN-, Vodafone- of Odido-netwerk (Odido enkel zakelijk)
 
 Ze bieden ook nog es een **niet goed=geld terug garantie**.
 

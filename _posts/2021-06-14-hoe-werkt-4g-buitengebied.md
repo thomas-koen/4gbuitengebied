@@ -24,11 +24,11 @@ Een andere factor die kan meespelen bij de snelheid van je internet, is de plaat
 
 ## Kosten 4G
 
-Snel internet in het buitengebied is fijn, maar als je op de centen wil letten, moet je prioriteiten stellen. Hoe duur je 4G abonnement is, hangt natuurlijk af van de provider die je kiest en de hoeveelheid gigabytes (GB) die je verbruikt. Voor het goedkoopste abonnement dat niet gekoppeld is aan een ADSL-oplossing, kies je [T Mobile 4G voor thuis](https://4gbuitengebied.nl/t-mobile-4g-voor-thuis). Let wel op, de maximale snelheid van het abonnement is maar 25 Mbps. Bovendien betaal je voor de router en is het niet geschikt voor zakelijk gebruik.
+Snel internet in het buitengebied is fijn, maar als je op de centen wil letten, moet je prioriteiten stellen. Hoe duur je 4G abonnement is, hangt natuurlijk af van de provider die je kiest en de hoeveelheid gigabytes (GB) die je verbruikt. Voor het goedkoopste abonnement dat niet gekoppeld is aan een ADSL-oplossing, kies je [Odido 4G voor thuis](/odido-4g-voor-thuis/). Let wel op, de maximale snelheid van het abonnement is maar 25 Mbps. Bovendien betaal je voor de router en is het niet geschikt voor zakelijk gebruik.
 
 ### Hoeveelheid verbruik je?
 
-Je verbruik heb je helemaal zelf in de hand. Met het 4G Unlimited abonnement van T-Mobile heb je een onbeperkte hoeveelheid gigabytes ter beschikking. Je krijgt een startbundel van 500GB en je kunt elke dag gratis 5GB ophogen via sms. Als die GB&#39;s op zijn, kun je zelf gratis 2GB activeren, zo vaak als je wil. Je kunt dus wel onbeperkt internetten, maar het is mogelijk dat je telkens actief gigabytes moeten activeren. Dit kan vervelend worden als er veel verbruikers zijn en je jezelf bedenkt dat je na een uurtje film kijken in HD al ongeveer 3GB hebt verbruikt.
+Je verbruik heb je helemaal zelf in de hand. Met het 4G Unlimited abonnement van Odido heb je een onbeperkte hoeveelheid gigabytes ter beschikking. Je krijgt een startbundel van 500GB en je kunt elke dag gratis 5GB ophogen via sms. Als die GB&#39;s op zijn, kun je zelf gratis 2GB activeren, zo vaak als je wil. Je kunt dus wel onbeperkt internetten, maar het is mogelijk dat je telkens actief gigabytes moeten activeren. Dit kan vervelend worden als er veel verbruikers zijn en je jezelf bedenkt dat je na een uurtje film kijken in HD al ongeveer 3GB hebt verbruikt.
 
 ## Beste keuze
 

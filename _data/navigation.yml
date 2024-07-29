@@ -1,18 +1,18 @@
 - name: 4G Buitengebied
   dropdown:
     - name: KPN 4G buitengebied
-      link:  /kpn-4g-buitengebied
-    - name: T-Mobile 4G voor thuis
-      link: /t-mobile-4g-voor-thuis
+      link:  /kpn-4g-buitengebied/
+    - name: Odido 4G voor thuis
+      link: /odido-4g-voor-thuis/
     - name: Evenwifi
-      link: /evenwifi-tijdelijk-onbeperkt-4g-internet
+      link: /evenwifi-tijdelijk-onbeperkt-4g-internet/
     - name: Internet Creators
-      link: /internet-creators-snel-internet-buitengebied
+      link: /internet-creators-snel-internet-buitengebied/
 - name: Tijdelijk internet
   dropdown:
     - name: Evenwifi
-      link: /evenwifi-tijdelijk-onbeperkt-4g-internet
+      link: /evenwifi-tijdelijk-onbeperkt-4g-internet/
 - name: Vergelijking
-  link: /vergelijking
+  link: /vergelijking/
 - name: Blog
   link: /blog/
