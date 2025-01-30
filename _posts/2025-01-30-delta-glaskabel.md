@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Delta glaskabel: sneller en stabiel internet voor thuis en bedrijf"
-description: "Delta glaskabel: ontdek de verschillen met andere providers, beschikbare diensten, snelheden, kosten en hoe je overstapt in jouw regio."
+title:  "Delta glasvezel: sneller en stabiel internet voor thuis en bedrijf"
+description: "Delta glasvezel: ontdek de verschillen met andere providers, beschikbare diensten, snelheden, kosten en hoe je overstapt in jouw regio."
 date:   2025-01-30 13:19:20
-image: '/assets/images/delta-glaskabel-router.jpg'
-hero_image: /assets/images/delta-glaskabel-router.jpg
+image: '/assets/images/delta-glasvezel-router.jpg'
+hero_image: /assets/images/delta-glasvezel-router.jpg
 published: true
-permalink: delta-glaskabel-sneller-stabiel-internet
+permalink: delta-glasvezel-sneller-stabiel-internet
 show_sidebar: true
 ---
 
-De vraag naar betrouwbaar en snel internet neemt voortdurend toe. Delta, van oorsprong een Zeeuwse provider, speelt hierop in met glaskabel (glasvezelinternet) en biedt naast internet ook diensten zoals televisie en telefonie. Maar wat maakt **Delta glaskabel** nu eigenlijk anders dan andere aanbieders? In dit artikel vergelijken we Delta met andere glasvezelproviders, bespreken we de beschikbare diensten en snelheden, en gaan we in op de kosten en beschikbaarheid. Tot slot krijg je een kijkje in hoe een overstap naar Delta glaskabel precies in zijn werk gaat.
+De vraag naar betrouwbaar en snel internet neemt voortdurend toe. Delta, van oorsprong een Zeeuwse provider, speelt hierop in met glasvezel (glasvezelinternet) en biedt naast internet ook diensten zoals televisie en telefonie. Maar wat maakt **Delta glasvezel** nu eigenlijk anders dan andere aanbieders? In dit artikel vergelijken we Delta met andere glasvezelproviders, bespreken we de beschikbare diensten en snelheden, en gaan we in op de kosten en beschikbaarheid. Tot slot krijg je een kijkje in hoe een overstap naar Delta glasvezel precies in zijn werk gaat.
 
 {% include youtube.html video="ypa_fBzuXV0" %}
 
-## Delta glaskabel vs. andere aanbieders: de verschillen
+## Delta glasvezel vs. andere aanbieders: de verschillen
 
 Een van de manieren waarop Delta zich onderscheidt van andere glasvezelaanbieders is de sterke regionale binding. Delta is vooral bekend in Zeeland, maar breidt de laatste jaren haar dekkingsgebied snel uit. Waar grote landelijke providers zoals KPN of T-Mobile focussen op landelijke uitrol, heeft Delta een aantal regio’s en gemeenten als prioriteit genomen om glasvezelnetwerken aan te leggen. Dit kan voordelen opleveren als je in zo’n gebied woont: de dekking verbetert snel en je krijgt te maken met een provider die de regio kent.
 
@@ -22,7 +22,7 @@ Daarnaast profileert Delta zich met heldere pakketten die meestal “all-in” z
 
 ![Glasvezel lamp](/assets/images/glasvezel-lamp-ding.jpg)
 
-## Welke diensten biedt Delta aan via glaskabel?
+## Welke diensten biedt Delta aan via glasvezel?
 
 **Internet**
 
@@ -40,7 +40,7 @@ Ook voor vaste telefonie kun je bij Delta terecht. Ze bieden onbeperkt bellen bi
 
 Als je alle diensten bij Delta onderbrengt, krijg je vaak bundelkortingen of extra zenders. Let hierop bij het vergelijken van aanbieders, want het totaalplaatje kan onderaan de streep best verschillen.
 
-## Snelheden van Delta glaskabel
+## Snelheden van Delta glasvezel
 
 Delta biedt (afhankelijk van je woonplaats) snelheden tot 1 Gbit/s (1.000 Mbit/s) aan voor download en vaak ook voor upload. Dat is ideaal als je met meerdere mensen tegelijk wilt streamen, gamen of grote bestanden verzendt. In sommige gebieden zijn de opties nog wat beperkter, bijvoorbeeld 200 Mbit/s of 400 Mbit/s, maar de provider is bezig met een inhaalslag om hogere snelheden landelijk te ontsluiten.
 
@@ -50,7 +50,7 @@ Delta biedt (afhankelijk van je woonplaats) snelheden tot 1 Gbit/s (1.000 Mbit/s
 - **500 Mbit/s of meer**: als je intensief online bent met meerdere gebruikers tegelijk, of regelmatig grote bestanden uploadt.
 - **1 Gbit/s**: ultieme bandbreedte, ideaal voor grote gezinnen of thuiswerkers die maximale snelheid willen hebben voor zowel download als upload.
 
-## Kosten en pakketten: wat betaal je voor Delta glaskabel?
+## Kosten en pakketten: wat betaal je voor Delta glasvezel?
 
 De prijzen voor een Delta-pakket hangen af van de gekozen snelheid en welke diensten (internet, TV, telefonie) je erbij neemt. Gemiddeld kun je denken aan 45–60 euro per maand voor een basis internet-only glasvezelpakket. Bij hogere snelheden (500 Mbit/s of 1 Gbit/s) kan dit oplopen tot 70–90 euro per maand, zeker als je er TV en vaste telefonie bij neemt.
 
@@ -63,13 +63,13 @@ Het is verstandig om prijzen te vergelijken met die van andere providers. Houd d
 
 {% include youtube.html video="KkXWG44-xas" %}
 
-## Check de beschikbaarheid van Delta glaskabel in jouw woonplaats
+## Check de beschikbaarheid van Delta glasvezel in jouw woonplaats
 
-Niet overal in Nederland is Delta-glaskabel al beschikbaar. De provider concentreert zich traditioneel op Zeeland, maar rolt nu op grotere schaal uit in andere provincies. De eenvoudigste manier om te controleren of je jouw huis kunt aansluiten is via de [officiële website van Delta](https://www.delta.nl/). Vul je postcode en huisnummer in om te zien welke pakketten je kunt krijgen en welke snelheden beschikbaar zijn.
+Niet overal in Nederland is Delta-glasvezel al beschikbaar. De provider concentreert zich traditioneel op Zeeland, maar rolt nu op grotere schaal uit in andere provincies. De eenvoudigste manier om te controleren of je jouw huis kunt aansluiten is via de [officiële website van Delta](https://www.delta.nl/). Vul je postcode en huisnummer in om te zien welke pakketten je kunt krijgen en welke snelheden beschikbaar zijn.
 
 Soms is er een nieuwbouw- of wijkproject gaande waarin Delta glasvezel aanlegt. Je ontvangt dan mogelijk een brief of huis-aan-huisfolder wanneer de werkzaamheden beginnen, met daarin uitleg en acties voor bewoners. Dus ook al staat je postcode nu niet op de lijst, dan kan dat in de nabije toekomst veranderen als er nieuwe aanlegprojecten plaatsvinden.
 
-## Overstappen naar Delta glaskabel: hoe werkt dat?
+## Overstappen naar Delta glasvezel: hoe werkt dat?
 
 {% include youtube.html video="9xu3Pk74jJE" %}
 
@@ -94,6 +94,6 @@ Zodra de verbinding is opgeleverd, test je de wifi en bedrade verbinding. Als al
 
 ## Delta in Zeeland
 
-**Delta glaskabel** is een aantrekkelijke optie voor wie in een gebied woont waar deze provider actief glasvezel aanbiedt. Je kunt rekenen op hoge internetsnelheden (tot 1 Gbit/s), stabiele connectiviteit en de mogelijkheid om alles-in-één-pakketten (internet, TV, telefonie) af te sluiten. De tarieven liggen in lijn met andere landelijke glasvezelaanbieders, maar met het voordeel dat Delta zich focust op bepaalde regio’s, waardoor je soms kunt profiteren van speciale acties.
+**Delta glasvezel** is een aantrekkelijke optie voor wie in een gebied woont waar deze provider actief glasvezel aanbiedt. Je kunt rekenen op hoge internetsnelheden (tot 1 Gbit/s), stabiele connectiviteit en de mogelijkheid om alles-in-één-pakketten (internet, TV, telefonie) af te sluiten. De tarieven liggen in lijn met andere landelijke glasvezelaanbieders, maar met het voordeel dat Delta zich focust op bepaalde regio’s, waardoor je soms kunt profiteren van speciale acties.
 
 Of je nu in Zeeland woont of in een andere provincie waar Delta net een nieuw glasvezelnetwerk aanlegt, het loont de moeite om te checken of dit jouw beste optie is qua prijs-kwaliteit. Kijk wel altijd naar de beschikbaarheid in je woonplaats en vergelijk pakketten en snelheden. Mocht de aansluiting al in je woning aanwezig zijn, dan is overstappen meestal heel eenvoudig en kun je binnen korte tijd genieten van een stabiel, snel en toekomstbestendig internet.
