@@ -14,7 +14,7 @@ _Bekijk direct de vier oplossingen, onze_ _[buitengebied internet vergelijking](
 |               <img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo"><br /><sub><sup>_KPN Netwerk_</sup></sub>               | [**"Sneller Internet Buitengebied"**](/kpn-4g-buitengebied) <br />Je hebt ADSL van KPN maar die is traag? Dan schakelt 4G bij in dit gratis abonnement voor KPN-klanten.                                                                                                            |
 |        <img style="width:100px;" src="/assets/images/logo-odido-150x150.png" alt="Odido Logo"><br /><sub><sup>_Odido-netwerk_</sup></sub>        | [**"4G voor thuis"**](/odido-4g-voor-thuis) <br />De goedkoopste zonder KPN-ADSL. Snel internet waar je ook woont met 4G voor thuis. Sim only, met Huawei B818 4G binnenrouter of met versterkt 4G voor Extra Snel.                                                                 |
 |         <img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo"><br /><sub><sup>_Odido-netwerk_</sup></sub>         | [**"Tijdelijk 4G internet&quot; EN &quot;4G/5G abonnement"**](/evenwifi-tijdelijk-onbeperkt-4g-internet) <br />Onbeperkt? Hier kun je het meeste verbruiken: tot wel 1000 GB per maand. Standaard tot 32 gebruikers, maar ook 50, 100 en 150 is mogelijk bij tijdelijk 4G internet. |
-| <img style="width:100px;" src="/assets/images/internet-creators-logo.png" alt="Internet creators Logo"><br /><sub><sup>_KPN-netwerk_</sup></sub> | [**"Snel Internet Buitengebied"**](/internet-creators-snel-internet-buitengebied) <br />Snel internet in het buitengebied zonder gedoe. Echt advies &amp; maatwerk. Met de garantie dat het gewoon perfect werkt. Bij KPN of Odido, aanbod op maat.                                 |
+| <img style="width:100px;" src="/assets/images/internet-creators-logo.png" alt="Internet creators Logo"><br /><sub><sup>_Odido & Vodafone netwerk_</sup></sub> | [**"Snel Internet Buitengebied"**](/internet-creators-snel-internet-buitengebied) <br />Snel internet in het buitengebied zonder gedoe. Echt advies &amp; maatwerk. Met de garantie dat het gewoon perfect werkt. Bij KPN, Vodafone of Odido, aanbod op maat.                       |
 
 Kun je nog niet direct kiezen tussen deze 4? Check onze [Buitengebied Internet Vergelijker](/vergelijking).
 
@@ -45,14 +45,14 @@ Kun je nog niet direct kiezen tussen deze 4? Check onze [Buitengebied Internet V
 
 # 4G buitengebied aanbieders
 
-Er zijn vier partijen die 4G voor buitengebied aanbieden: KPN met Sneller Internet Buitengebied, Odido (voorheen T-Mobile/Tele2) met 4G voor Thuis unlimited, EvenWifi sinds 2020 met Onbeperkt 4G (Tijdelijk en als Abonnement) en nu in 2021 Internet Creators met Snel Internet Buitengebied: advies &amp; maatwerk en mogelijk via KPN &amp; Odido.
+Er zijn vier partijen die 4G voor buitengebied aanbieden: KPN met Sneller Internet Buitengebied, Odido (voorheen T-Mobile/Tele2) met 4G voor Thuis unlimited, EvenWifi sinds 2020 met Onbeperkt 4G (Tijdelijk en als Abonnement) en sinds 2021 Internet Creators met Snel Internet Buitengebied: advies &amp; maatwerk en mogelijk via KPN, Vodafone &amp; Odido.
 
 | Aanbieder                                                                                               | Oplossing                                                                       |
 |---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | <img style="width:100px;" src="/assets/images/logo-KPN.png" alt="KPN Logo">                             | Bekijk [**"Sneller Internet Buitengebied"**](/kpn/){:target="_blank"}           |
 | <img style="width:100px;" src="/assets/images/logo-odido-150x150.png" alt="Odido Logo">                      | Bekijk [**"4G voor thuis"**](/odido/){:target="_blank"}                         |
 | <img style="width:100px;" src="/assets/images/evenwifi_logo.png" alt="Evenwifi Logo">                   | Bekijk [**"Tijdelijk 4G internet"**](/evenwifi/){:target="_blank"}              |
-| <img style="width:100px;" src="/assets/images/logo-internet-creators.svg" alt="Internet creators Logo"> | Bekijk [**"Snel Internet Buitengebied"**](/internetcreators/){:target="_blank"} |
+| <img style="width:100px;" src="/assets/images/internet-creators-logo.png" alt="Internet creators Logo"> | Bekijk [**"Snel Internet Buitengebied"**](/internetcreators/){:target="_blank"} |
 
 
 # Veelgestelde vragen over 4G

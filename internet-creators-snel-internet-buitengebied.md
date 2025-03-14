@@ -11,18 +11,20 @@ hide_hero: true
 
 #### Odido buitengebied 5G
 
-| Odido buitengebied Plus     | Odido buitengebied Premium |
-|-----------------------------|----------------------------|
-| Maandelijks opzegbaar       | Maandelijks opzegbaar      |
-| €79 per maand               | €99 per maand              |
-| 1000GB per maand            | 1000GB per maand           |
-| Geen Service Plus           | Service plus               |
-| Dekking in Nederland        | Dekking in Nederland       |
-| Snelle levering             | Snelle levering            |
-| Persoonlijk contact         | Persoonlijk contact        |
-| Snelheidsonderzoek          | Snelheidsonderzoek         |
-| SIM-only of met modem       | SIM-only of met modem      |
-| Geen vast IP adres mogelijk | Vast IP adres mogelijk     |
+| Odido buitengebied maandelijks | Odido buitengebied jaarcontract |
+|--------------------------------|---------------------------------|
+| Maandelijks opzegbaar          | 1 jaar contract                 |
+| €70 per maand                  | €60 per maand                   |
+| 1000/200Mbps down/up           | 1000/200Mbps down/up            |
+| 2000GB per maand (FUP)         | 2000GB per maand (FUP)          |
+| Dekking in Nederland           | Dekking in Nederland            |
+| Snelle levering                | Snelle levering                 |
+| Persoonlijk contact            | Persoonlijk contact             |
+| Service Plus                   | Service Plus                    |
+| Snelheidsonderzoek             | Snelheidsonderzoek              |
+| SIM-only of met modem          | SIM-only of met modem           |
+| Vast IP adres mogelijk         | Vast IP adres mogelijk          |
+| €26 aansluitkosten             | €26 aansluitkosten              |
 
 **[Bekijk direct Odido buitengebied 5G-aanbod van Internet Creators &raquo;](https://www.internetcreators.nl/odido-internet-buitengebied/){:target="_blank"}**
 <br />
@@ -31,17 +33,19 @@ hide_hero: true
 
 #### Vodafone Buitengebied 5G
 
-| Vodafone buitengebied Plus  | Vodafone buitengebied Premium |
-|-----------------------------|-------------------------------|
-| Maandelijks opzegbaar       | Maandelijks opzegbaar         |
-| €79 per maand               | €109 per maand                |
-| 1000GB per maand            | 1000GB per maand              |
-| Geen Service Plus           | Service plus                  |
-| Dekking in Nederland        | Dekking in Nederland          |
-| Snelle levering             | Snelle levering               |
-| Persoonlijk contact         | Persoonlijk contact           |
-| Snelheidsonderzoek          | Snelheidsonderzoek            |
-| SIM-only of met modem       | SIM-only of met modem         |
+| Vodafone buitengebied maandelijks | Vodafone buitengebied jaarcontract |
+|-----------------------------------|------------------------------------|
+| Maandelijks opzegbaar             | 1 jaar contract                    |
+| €70 per maand                     | €60 per maand                      |
+| 2000GB per maand (FUP)            | 2000GB per maand (FUP)             |
+| 600/100Mbps down/up               | 600/100Mbps down/up                |
+| Service Plus                      | Service plus                       |
+| Dekking in Nederland              | Dekking in Nederland               |
+| Snelle levering                   | Snelle levering                    |
+| Persoonlijk contact               | Persoonlijk contact                |
+| Snelheidsonderzoek                | Snelheidsonderzoek                 |
+| SIM-only of met modem             | SIM-only of met modem              |
+| €26 aansluitkosten                | €26 aansluitkosten                 |
 
 **[Bekijk direct Vodafone buitengebied 5G-aanbod van Internet Creators &raquo;](https://www.internetcreators.nl/odido-internet-buitengebied/){:target="_blank"}**
 <br />
