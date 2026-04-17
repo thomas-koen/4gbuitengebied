@@ -4,7 +4,7 @@ title:  "Data abonnement voor je tablet: wat je moet weten"
 description: "Data abonnement voor je tablet afsluiten? Lees alles over data-only sim, hoeveel GB je nodig hebt, welke providers er zijn en wanneer een hotspot slimmer is"
 date:   2026-04-20 13:56:34
 image: '/assets/images/data-abonnement-tablet.jpg'
-hero_image: /assets/images/data-abonnement-tablet
+hero_image: /assets/images/data-abonnement-tablet.jpg
 hero_darken: true
 published: true
 permalink: data-abonnement-tablet
