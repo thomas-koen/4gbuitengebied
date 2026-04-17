@@ -2,7 +2,7 @@
 layout: post
 title:  "Slimme edge gateways en IIoT-oplossingen voor Nederlandse machinebouw"
 description: "Data abonnement voor je tablet afsluiten? Lees alles over data-only sim, hoeveel GB je nodig hebt, welke providers er zijn en wanneer een hotspot slimmer is"
-date:   2026-04-17 16:15:22
+date:   2026-04-17 15:15:22
 image: '/assets/images/slimme-edge-gateways.jpg'
 hero_image: /assets/images/slimme-edge-gateways.jpg
 hero_darken: true
